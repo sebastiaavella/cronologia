@@ -112,7 +112,7 @@
 	</div>
 </div>
 
-<div class="relative mt-5 overflow-auto">
+<div class="relative mt-5 h-[calc(100vh-230px)] overflow-auto">
 	{#if timelineData}
 		<Timeline {timelineData} />
 	{/if}

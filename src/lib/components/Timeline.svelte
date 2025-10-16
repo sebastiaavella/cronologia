@@ -30,6 +30,40 @@
 		}
 		return cats;
 	});
+
+	// Devuelve el color de la categoría, o un color por defecto si no existe
+	function getCategoriaColor(categoria: string) {
+		return timelineData.categoriaColors?.[categoria] || '#e0e0e0';
+	}
+
+	// Devuelve los eventos de una categoría ordenados por yearStart
+	function getEventsByCategory(category: string) {
+		return timelineData.events
+			.filter((e) => e.categoria === category)
+			.sort((a, b) => (a.yearStart ?? 0) - (b.yearStart ?? 0));
+	}
+
+	// Genera las celdas para una fila de categoría, cada celda puede tener colspan
+	function getCategoryCells(category: string, years: number[]) {
+		const events = getEventsByCategory(category);
+		const cells = [];
+		let yearIdx = 0;
+		let eventIdx = 0;
+		while (yearIdx < years.length) {
+			const year = years[yearIdx];
+			const event = events[eventIdx];
+			if (event && event.yearStart === year) {
+				const span = (event.yearEnd ? event.yearEnd : event.yearStart) - event.yearStart + 1;
+				cells.push({ event, colspan: span });
+				yearIdx += span;
+				eventIdx++;
+			} else {
+				cells.push({ event: null, colspan: 1 });
+				yearIdx++;
+			}
+		}
+		return cells;
+	}
 </script>
 
 <Table.Root>
@@ -44,11 +78,19 @@
 	</Table.Header>
 	<Table.Body>
 		{#each categories as category}
-			<Table.Row>
-				<Table.Cell class="sticky left-0 z-10 bg-white font-medium">{category}</Table.Cell>
-				{#each years as year}
-					<Table.Cell class="w-[100px]">
-						<TimelineItem {timelineData} {year} {category} />
+			<Table.Row style="background-color: {getCategoriaColor(category)}10;">
+				<Table.Cell
+					class="sticky left-0 z-10 font-medium"
+					style="background-color: {getCategoriaColor(category)};">{category}</Table.Cell
+				>
+				{#each getCategoryCells(category, years) as cell, i}
+					<Table.Cell
+						colspan={cell.colspan}
+						style="background-color: {getCategoriaColor(category)}; border-right: 1px solid #bbb;"
+					>
+						{#if cell.event}
+							<TimelineItem item={cell.event} />
+						{/if}
 					</Table.Cell>
 				{/each}
 			</Table.Row>

@@ -48,7 +48,7 @@
 				<Table.Cell class="sticky left-0 z-10 bg-white font-medium">{category}</Table.Cell>
 				{#each years as year}
 					<Table.Cell class="w-[100px]">
-						<TimelineItem />
+						<TimelineItem {timelineData} {year} {category} />
 					</Table.Cell>
 				{/each}
 			</Table.Row>

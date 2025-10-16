@@ -1,0 +1,4784 @@
+{
+  "events": [
+    {
+      "yearStart": 1954,
+      "yearEnd": 1954,
+      "categoria": "Vida personal",
+      "text": "neixo 8/5 a la Clínica Mare Nostrum",
+      "media": ""
+    },
+    {
+      "yearStart": 1961,
+      "yearEnd": 1961,
+      "categoria": "Vida personal",
+      "text": "14/5 Primera Comunió",
+      "media": "e:/xisco i família/14-maig-1961.jpg"
+    },
+    {
+      "yearStart": 1962,
+      "yearEnd": 1962,
+      "categoria": "Vida personal",
+      "text": "8/4 neix na Rosa",
+      "media": "e:/negatius/146007.jpg"
+    },
+    {
+      "yearStart": 1973,
+      "yearEnd": 1973,
+      "categoria": "Vida personal",
+      "text": "2/6 carnet conduir",
+      "media": ""
+    },
+    {
+      "yearStart": 1975,
+      "yearEnd": 1976,
+      "categoria": "Vida personal",
+      "text": "Servei militar 15/10/1975 a 15/01/1977",
+      "media": "e:/negatius/017004.jpg"
+    },
+    {
+      "yearStart": 1983,
+      "yearEnd": 1983,
+      "categoria": "Vida personal",
+      "text": "1/10 boda",
+      "media": "E:/altres fotos/noces/noces044_.jpg"
+    },
+    {
+      "yearStart": 2019,
+      "yearEnd": 2019,
+      "categoria": "Vida personal",
+      "text": "24/7 infart",
+      "media": "E:/Xisco i família/20190724_151508.jpg"
+    },
+    {
+      "yearStart": 2017,
+      "yearEnd": 2017,
+      "categoria": "papàs",
+      "text": "25/3 mor sa mamà",
+      "media": ""
+    },
+    {
+      "yearStart": 2021,
+      "yearEnd": 2021,
+      "categoria": "papàs",
+      "text": "22/3 mor es papà",
+      "media": ""
+    },
+    {
+      "yearStart": 1957,
+      "yearEnd": 1957,
+      "categoria": "MEsperança / Xisco / Alicia",
+      "text": "26/8 neix en Xisco a Son Dureta",
+      "media": "E:/Xisco i família/Xisco/001_3mesos.jpg"
+    },
+    {
+      "yearStart": 1959,
+      "yearEnd": 1959,
+      "categoria": "MEsperança / Xisco / Alicia",
+      "text": "1/2 neix n'Alicia a Son Dureta",
+      "media": ""
+    },
+    {
+      "yearStart": 1985,
+      "yearEnd": 1985,
+      "categoria": "MEsperança / Xisco / Alicia",
+      "text": "14/6 boda M.Esperança",
+      "media": "e:/negatius/160030.jpg"
+    },
+    {
+      "yearStart": 1987,
+      "yearEnd": 1987,
+      "categoria": "Miquel",
+      "text": "10/8 neix en Miquel a Son Dureta",
+      "media": "e:/negatius3/177011.jpg"
+    },
+    {
+      "yearStart": 2024,
+      "yearEnd": 2024,
+      "categoria": "Miquel",
+      "text": "23/12 neix n'Emma",
+      "media": "E:/Emma/Benvinguda.jpg"
+    },
+    {
+      "yearStart": 1992,
+      "yearEnd": 1992,
+      "categoria": "Jordi",
+      "text": "3/7 neix en Jordi a ca nostra",
+      "media": "e:/negatius3/207007.jpg"
+    },
+    {
+      "yearStart": 1979,
+      "yearEnd": 1979,
+      "categoria": "reste família Avellà-Salvà",
+      "text": "mor Esperança Notas Colomar 02/08",
+      "media": ""
+    },
+    {
+      "yearStart": 1994,
+      "yearEnd": 1994,
+      "categoria": "reste família Avellà-Salvà",
+      "text": "mor en Jordi Miquel",
+      "media": "e:/negatius/139015_15maig1983.jpg"
+    },
+    {
+      "yearStart": 2000,
+      "yearEnd": 2000,
+      "categoria": "reste família Avellà-Salvà",
+      "text": "6/8 mor Bússer",
+      "media": ""
+    },
+    {
+      "yearStart": 2000,
+      "yearEnd": null,
+      "categoria": "reste família Pol-Salom",
+      "text": "7/10 mor Rosa Salom Cañellas",
+      "media": "e:/negatius3/195006__.jpg"
+    },
+    {
+      "yearStart": 1985,
+      "categoria": "Amics",
+      "text": "boda Guillem Alomar-Joana Pol 19/6",
+      "media": "e:/negatius/162007.jpg"
+    },
+    {
+      "yearStart": 1969,
+      "yearEnd": 1969,
+      "categoria": "vehicles",
+      "text": "11/7 R8 PM132199",
+      "media": "e:/negatius/105019.jpg"
+    },
+    {
+      "yearStart": 1982,
+      "yearEnd": 1982,
+      "categoria": "vehicles",
+      "text": "26/8 R5 PM8307W",
+      "media": ""
+    },
+    {
+      "yearStart": 1986,
+      "yearEnd": 1986,
+      "categoria": "vehicles",
+      "text": "2/10 R11 PM1198AK",
+      "media": ""
+    },
+    {
+      "yearStart": 1999,
+      "yearEnd": 1999,
+      "categoria": "vehicles",
+      "text": "10/6 Córdoba PM5665DG 5/8 Saxo PM7777DH",
+      "media": ""
+    },
+    {
+      "yearStart": 2013,
+      "yearEnd": 2013,
+      "categoria": "vehicles",
+      "text": "19/4 Toyota 5154HPT (Xisco)",
+      "media": "E:/Vivo 2109 Tià/IMG_20250928_110011.jpg"
+    },
+    {
+      "yearStart": 2020,
+      "yearEnd": 2020,
+      "categoria": "vehicles",
+      "text": "4/9 Hyundai 4245LJS",
+      "media": ""
+    },
+    {
+      "yearStart": 2024,
+      "yearEnd": 2024,
+      "categoria": "vehicles",
+      "text": "29/1 Saxo PM7777DH (Jordi) 10/10 Toyota 5154HPT",
+      "media": "E:/Vivo 2109 Tià/IMG_20251008_110001.jpg"
+    },
+    {
+      "yearStart": 1978,
+      "yearEnd": 1978,
+      "categoria": "viatges",
+      "text": "Roma-Dubrovnik-Rodas 23/4-15/5 Porrentruy 3/11-8/11",
+      "media": ""
+    },
+    {
+      "yearStart": 1980,
+      "yearEnd": 1980,
+      "categoria": "viatges",
+      "text": "Menorca gener Doñana 3/3-15/3",
+      "media": ""
+    },
+    {
+      "yearStart": 1981,
+      "yearEnd": 1981,
+      "categoria": "viatges",
+      "text": "Pirineu 27/9-9/10",
+      "media": ""
+    },
+    {
+      "yearStart": 1983,
+      "yearEnd": 1983,
+      "categoria": "viatges",
+      "text": "Pirineu 3/10-13/10 (viatge de Noces)",
+      "media": ""
+    },
+    {
+      "yearStart": 1985,
+      "yearEnd": 1985,
+      "categoria": "viatges",
+      "text": "Portugal novembre",
+      "media": ""
+    },
+    {
+      "yearStart": 1986,
+      "yearEnd": 1986,
+      "categoria": "viatges",
+      "text": "Osca",
+      "media": ""
+    },
+    {
+      "yearStart": 1989,
+      "yearEnd": 1989,
+      "categoria": "viatges",
+      "text": "París, setembre",
+      "media": ""
+    },
+    {
+      "yearStart": 2012,
+      "yearEnd": 2012,
+      "categoria": "viatges",
+      "text": "Bologna-Firenze 6/4-8/4",
+      "media": ""
+    },
+    {
+      "yearStart": 2013,
+      "yearEnd": 2013,
+      "categoria": "viatges",
+      "text": "Roma 28/9-1/10",
+      "media": ""
+    },
+    {
+      "yearStart": 2014,
+      "yearEnd": 2014,
+      "categoria": "viatges",
+      "text": "València 31/10-3/11",
+      "media": ""
+    },
+    {
+      "yearStart": 2017,
+      "yearEnd": 2017,
+      "categoria": "viatges",
+      "text": "Holanda 3/5-6/5 Cantàbria 19/9-23/9",
+      "media": ""
+    },
+    {
+      "yearStart": 2018,
+      "yearEnd": 2018,
+      "categoria": "viatges",
+      "text": "Dublín 12/8-15/8",
+      "media": ""
+    },
+    {
+      "yearStart": 2019,
+      "yearEnd": 2019,
+      "categoria": "viatges",
+      "text": "Menorca 13/5-16/5 Tenerife 16/9-20/9",
+      "media": ""
+    },
+    {
+      "yearStart": 2022,
+      "yearEnd": 2022,
+      "categoria": "viatges",
+      "text": "Burgos 26/3-2/4 Sevilla-Córdoba 7/5-10/5 Guadalajara 14/7-17/7 Santiago 21/9-24/9",
+      "media": ""
+    },
+    {
+      "yearStart": 2023,
+      "yearEnd": 2023,
+      "categoria": "viatges",
+      "text": "Málaga 2/1-6/1 Salamanca 28/9-2/10 Barcelona 23/11-25/11",
+      "media": ""
+    },
+    {
+      "yearStart": 2024,
+      "yearEnd": 2024,
+      "categoria": "viatges",
+      "text": "Cádiz 7/4-12/4 Saragossa 24/9-28/9",
+      "media": ""
+    },
+    {
+      "yearStart": 1983,
+      "yearEnd": 1983,
+      "categoria": "immobles",
+      "text": "Josep Martínez 13 4t C 11/4",
+      "media": ""
+    },
+    {
+      "yearStart": 1991,
+      "yearEnd": 1991,
+      "categoria": "immobles",
+      "text": "Pontiró parcel·la 66A 8/4",
+      "media": ""
+    },
+    {
+      "yearStart": 2017,
+      "yearEnd": 2017,
+      "categoria": "immobles",
+      "text": "Fornaris 32 3r 3ª 13/12",
+      "media": ""
+    },
+    {
+      "yearStart": 1958,
+      "yearEnd": 1961,
+      "categoria": "estudis / feina",
+      "text": "Franciscanes",
+      "media": ""
+    },
+    {
+      "yearStart": 1954,
+      "yearEnd": 1955,
+      "categoria": "Bisbes de Mallorca",
+      "text": "Juan Hervás Benet",
+      "media": ""
+    },
+    {
+      "yearStart": 1954,
+      "yearEnd": 1955,
+      "categoria": "Governadors Civils",
+      "text": "Honorato Martín Cobos",
+      "media": ""
+    },
+    {
+      "yearStart": 1954,
+      "yearEnd": 1955,
+      "categoria": "Batles de Palma",
+      "text": "Josep Vilanova (1953-1954) / Joan Massanet Moragues",
+      "media": ""
+    },
+    {
+      "yearStart": 1954,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "explosió del turisme als anys 50 / 6/10 benedicció del col·legi Sant Felip Nerí",
+      "media": ""
+    },
+    {
+      "yearStart": 1954,
+      "yearEnd": 1975,
+      "categoria": "caps d_Estat",
+      "text": "Francisco Franco",
+      "media": "E:/cronologia/fotos/franco.jpg"
+    },
+    {
+      "yearStart": 1975,
+      "yearEnd": 2014,
+      "categoria": "caps d_Estat",
+      "text": "Juan Carlos I",
+      "media": "e:/cronologia/fotos/jcarlosi.jpg"
+    },
+    {
+      "yearStart": 2014,
+      "yearEnd": 2025,
+      "categoria": "caps d_Estat",
+      "text": "Felipe VI",
+      "media": "e:/cronologia/fotos/felipe.jpg"
+    },
+    {
+      "yearStart": 1973,
+      "yearEnd": 1976,
+      "categoria": "presidents Govern",
+      "text": "Luis Carrero Blanco / Carlos Arias Navarro",
+      "media": "e:/cronologia/fotos/arias.jpg"
+    },
+    {
+      "yearStart": 1976,
+      "yearEnd": 1981,
+      "categoria": "presidents Govern",
+      "text": "Adolfo Suárez González",
+      "media": ""
+    },
+    {
+      "yearStart": 1981,
+      "yearEnd": 1982,
+      "categoria": "presidents Govern",
+      "text": "Leopoldo Calvo-Sotelo Bustelo",
+      "media": ""
+    },
+    {
+      "yearStart": 1982,
+      "yearEnd": 1996,
+      "categoria": "presidents Govern",
+      "text": "Felipe González Márquez",
+      "media": ""
+    },
+    {
+      "yearStart": 1996,
+      "yearEnd": 2004,
+      "categoria": "presidents Govern",
+      "text": "José María Aznar López",
+      "media": ""
+    },
+    {
+      "yearStart": 2004,
+      "yearEnd": 2011,
+      "categoria": "presidents Govern",
+      "text": "José Luis Rodríguez Zapatero",
+      "media": ""
+    },
+    {
+      "yearStart": 2011,
+      "yearEnd": 2018,
+      "categoria": "presidents Govern",
+      "text": "Mariano Rajoy Brey",
+      "media": ""
+    },
+    {
+      "yearStart": 2018,
+      "yearEnd": 2025,
+      "categoria": "presidents Govern",
+      "text": "Pedro Sánchez Pérez-Castejón",
+      "media": ""
+    },
+    {
+      "yearStart": 1954,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "Espanya ingresa a la FAO",
+      "media": "e:/cronologia/fotos/inia.jpg"
+    },
+    {
+      "yearStart": 1954,
+      "yearEnd": 1961,
+      "categoria": "presidents USA",
+      "text": "Dwight D. (Ike) Eisenhower",
+      "media": "e:/cronologia/fotos/ike.jpg"
+    },
+    {
+      "yearStart": 1961,
+      "yearEnd": 1962,
+      "categoria": "presidents USA",
+      "text": "John F. Kennedy",
+      "media": "e:/cronologia/fotos/jfk.jpg"
+    },
+    {
+      "yearStart": 1963,
+      "yearEnd": 1969,
+      "categoria": "presidents USA",
+      "text": "Lyndon B. Johnson",
+      "media": "e:/cronologia/fotos/lyndon.jpg"
+    },
+    {
+      "yearStart": 1969,
+      "yearEnd": 1974,
+      "categoria": "presidents USA",
+      "text": "Richard M. Nixon",
+      "media": "e:/cronologia/fotos/nixon.jpg"
+    },
+    {
+      "yearStart": 1974,
+      "yearEnd": 1977,
+      "categoria": "presidents USA",
+      "text": "Gerald R. Ford",
+      "media": "e:/cronologia/fotos/ford.jpg"
+    },
+    {
+      "yearStart": 1977,
+      "yearEnd": 1981,
+      "categoria": "presidents USA",
+      "text": "James E. (Jimmy) Carter",
+      "media": "e:/cronologia/fotos/carter.jpg"
+    },
+    {
+      "yearStart": 1981,
+      "yearEnd": 1989,
+      "categoria": "presidents USA",
+      "text": "Ronald W. Reagan",
+      "media": "e:/cronologia/fotos/reagan.jpg"
+    },
+    {
+      "yearStart": 1989,
+      "yearEnd": 1993,
+      "categoria": "presidents USA",
+      "text": "George H. Bush",
+      "media": "e:/cronologia/fotos/H_W_Bush.jpg"
+    },
+    {
+      "yearStart": 1993,
+      "yearEnd": 2001,
+      "categoria": "presidents USA",
+      "text": "William J.  (Bill) Clinton",
+      "media": "e:/cronologia/fotos/clinton.jpg"
+    },
+    {
+      "yearStart": 2001,
+      "yearEnd": 2009,
+      "categoria": "presidents USA",
+      "text": "George W. Bush",
+      "media": "e:/cronologia/fotos/W-Bush.jpg"
+    },
+    {
+      "yearStart": 2009,
+      "yearEnd": 2017,
+      "categoria": "presidents USA",
+      "text": "Barack H. Obama",
+      "media": "e:/cronologia/fotos/obama.jpg"
+    },
+    {
+      "yearStart": 2017,
+      "yearEnd": 2021,
+      "categoria": "presidents USA",
+      "text": "Donald J. Trump",
+      "media": "e:/cronologia/fotos/trump1.jpg"
+    },
+    {
+      "yearStart": 2021,
+      "yearEnd": 2025,
+      "categoria": "presidents USA",
+      "text": "Joseph R. (Joe) Biden",
+      "media": "e:/cronologia/fotos/biden.jpg"
+    },
+    {
+      "yearStart": 2025,
+      "yearEnd": null,
+      "categoria": "presidents USA",
+      "text": "Donald J. Trump",
+      "media": "e:/cronologia/fotos/trump2.jpg"
+    },
+    {
+      "yearStart": 1954,
+      "yearEnd": 1959,
+      "categoria": "presidents França",
+      "text": "René Coty",
+      "media": "e:/cronologia/fotos/coty.jpg"
+    },
+    {
+      "yearStart": 1959,
+      "yearEnd": 1969,
+      "categoria": "presidents França",
+      "text": "Charles de Gaulle",
+      "media": "e:/cronologia/fotos/degaulle.jpg"
+    },
+    {
+      "yearStart": 1969,
+      "yearEnd": 1974,
+      "categoria": "presidents França",
+      "text": "Georges Pompidou",
+      "media": "e:/cronologia/fotos/pompidou.jpg"
+    },
+    {
+      "yearStart": 1974,
+      "yearEnd": 1981,
+      "categoria": "presidents França",
+      "text": "Valéry Giscard d'Estaing",
+      "media": "e:/cronologia/fotos/giscard.jpg"
+    },
+    {
+      "yearStart": 1981,
+      "yearEnd": 1995,
+      "categoria": "presidents França",
+      "text": "François Mitterrand",
+      "media": "e:/cronologia/fotos/mitterrand.jpg"
+    },
+    {
+      "yearStart": 1995,
+      "yearEnd": 2007,
+      "categoria": "presidents França",
+      "text": "Jacques Chirac",
+      "media": "e:/cronologia/fotos/chirac.jpg"
+    },
+    {
+      "yearStart": 2007,
+      "yearEnd": 2012,
+      "categoria": "presidents França",
+      "text": "Nicolás Sarkozy",
+      "media": "e:/cronologia/fotos/sarkozy.jpg"
+    },
+    {
+      "yearStart": 2012,
+      "yearEnd": 2017,
+      "categoria": "presidents França",
+      "text": "François Hollande",
+      "media": "e:/cronologia/fotos/hollande.jpg"
+    },
+    {
+      "yearStart": 2017,
+      "yearEnd": null,
+      "categoria": "presidents França",
+      "text": "Emmanuel Macron",
+      "media": "e:/cronologia/fotos/macron.jpg"
+    },
+    {
+      "yearStart": 1954,
+      "yearEnd": null,
+      "categoria": "presidents Alemanya",
+      "text": "Konrad Adenauer (RFA) / Wilhelm Pieck (RDA)",
+      "media": "e:/cronologia/fotos/konrad.jpg"
+    },
+    {
+      "yearStart": 1954,
+      "yearEnd": 1964,
+      "categoria": "presidents URSS/Rússia",
+      "text": "Nikita Jrushchov 14/9/53-14/10/64",
+      "media": "E:/cronologia/fotos/Khrushchev.jpg"
+    },
+    {
+      "yearStart": 1954,
+      "yearEnd": 1958,
+      "categoria": "Papes",
+      "text": "Pío XII 2/3/39-9/10/58",
+      "media": "E:/cronologia/fotos/Pio_XII.jpg"
+    },
+    {
+      "yearStart": 1958,
+      "yearEnd": 1963,
+      "categoria": "Papes",
+      "text": "Juan XXIII 28/10/58-3/6/63",
+      "media": "E:/cronologia/fotos/juan23.jpg"
+    },
+    {
+      "yearStart": 1963,
+      "yearEnd": 1978,
+      "categoria": "Papes",
+      "text": "Pablo VI 21/6/63-6/8/78",
+      "media": "E:/cronologia/fotos/Paulo-VI.jpg"
+    },
+    {
+      "yearStart": 1978,
+      "yearEnd": 2005,
+      "categoria": "Papes",
+      "text": "Juan Pablo I 26/8-28/9/78 // Juan Pablo II 16/10/78-2/4/05",
+      "media": "E:/cronologia/fotos/juan_pablo.jpg"
+    },
+    {
+      "yearStart": 2005,
+      "yearEnd": 2013,
+      "categoria": "Papes",
+      "text": "Benedicto XVI 19/4/05-28/2/13",
+      "media": "E:/cronologia/fotos/benedicto_16.jpg"
+    },
+    {
+      "yearStart": 2013,
+      "yearEnd": 2025,
+      "categoria": "Papes",
+      "text": "Francisco 13/3/13-21/4/25",
+      "media": "E:/cronologia/fotos/francisco.jpg"
+    },
+    {
+      "yearStart": 2025,
+      "categoria": "Papes",
+      "text": "León XIV 8/5/25-",
+      "media": "E:/cronologia/fotos/leon-14.jpg"
+    },
+    {
+      "yearStart": 1954,
+      "yearEnd": 1954,
+      "categoria": "guerres",
+      "text": "Indochina 1946-1954 / Argelia 1954-1962",
+      "media": ""
+    },
+    {
+      "yearStart": 1955,
+      "yearEnd": 1955,
+      "categoria": "guerres",
+      "text": "Vietnam 1955-1975",
+      "media": ""
+    },
+    {
+      "yearStart": 1956,
+      "yearEnd": 1956,
+      "categoria": "guerres",
+      "text": "Sinaí 1956",
+      "media": ""
+    },
+    {
+      "yearStart": 1967,
+      "yearEnd": null,
+      "categoria": "guerres",
+      "text": "Seis Días 1967",
+      "media": ""
+    },
+    {
+      "yearStart": 1982,
+      "yearEnd": null,
+      "categoria": "guerres",
+      "text": "Malvinas",
+      "media": ""
+    },
+    {
+      "yearStart": 1990,
+      "yearEnd": null,
+      "categoria": "guerres",
+      "text": "Guerra del Golfo 1990-1991",
+      "media": ""
+    },
+    {
+      "yearStart": 1991,
+      "yearEnd": null,
+      "categoria": "guerres",
+      "text": "Croacia 1991-1995",
+      "media": ""
+    },
+    {
+      "yearStart": 1992,
+      "yearEnd": 1995,
+      "categoria": "guerres",
+      "text": "Bosnia 1992-1995",
+      "media": ""
+    },
+    {
+      "yearStart": 1998,
+      "yearEnd": 1999,
+      "categoria": "guerres",
+      "text": "Kosovo 1998-1999",
+      "media": ""
+    },
+    {
+      "yearStart": 2001,
+      "yearEnd": null,
+      "categoria": "guerres",
+      "text": "Afganistan 2001-2021",
+      "media": ""
+    },
+    {
+      "yearStart": 2003,
+      "yearEnd": null,
+      "categoria": "guerres",
+      "text": "Iraq 2003-2011",
+      "media": ""
+    },
+    {
+      "yearStart": 2011,
+      "yearEnd": null,
+      "categoria": "guerres",
+      "text": "Siria 2011-",
+      "media": ""
+    },
+    {
+      "yearStart": 2014,
+      "yearEnd": null,
+      "categoria": "guerres",
+      "text": "Ucrania 2014-",
+      "media": ""
+    },
+    {
+      "yearStart": 2022,
+      "yearEnd": null,
+      "categoria": "guerres",
+      "text": "Ucrania 2022-",
+      "media": ""
+    },
+    {
+      "yearStart": 2023,
+      "yearEnd": null,
+      "categoria": "guerres",
+      "text": "Israel-Gaza 2023-",
+      "media": ""
+    },
+    {
+      "yearStart": 1954,
+      "categoria": "avanços tecnològics",
+      "text": "prova invent",
+      "media": ""
+    },
+    {
+      "yearStart": 1957,
+      "yearEnd": 1957,
+      "categoria": "Cursa espacial",
+      "text": "Sputnik 1 4/10 // Sputnik 2 (Laika) 3/11",
+      "media": "e:/cronologia/fotos/laika.jpg"
+    },
+    {
+      "yearStart": 1961,
+      "yearEnd": 1961,
+      "categoria": "Cursa espacial",
+      "text": "Vostok 1: Iuri Gagarin 12/4 // Mercury: Alan Shepard 5/5",
+      "media": ""
+    },
+    {
+      "yearStart": 1962,
+      "yearEnd": 1962,
+      "categoria": "Cursa espacial",
+      "text": "Mercury: John Glenn 20/2",
+      "media": "E:/audios/JFK.mp3"
+    },
+    {
+      "yearStart": 1963,
+      "yearEnd": 1963,
+      "categoria": "Cursa espacial",
+      "text": "Valentina Tereixkova 16/6",
+      "media": "e:/cronologia/fotos/valentina.jpg"
+    },
+    {
+      "yearStart": 1968,
+      "yearEnd": 1969,
+      "categoria": "Cursa espacial",
+      "text": "Apolo 7 // Apolo 8",
+      "media": "e:/cronologia/fotos/apolo8.jpg"
+    },
+    {
+      "yearStart": 1969,
+      "yearEnd": 1969,
+      "categoria": "Cursa espacial",
+      "text": "Apolo 9 // Apolo 10 // Apolo 11 20/7 // Apolo 12",
+      "media": "e:/cronologia/fotos/apolo11.jpg"
+    },
+    {
+      "yearStart": 1965,
+      "categoria": "Cursa espacial",
+      "text": "Alexéi Leonov 18/3",
+      "media": ""
+    },
+    {
+      "yearStart": 1966,
+      "yearEnd": null,
+      "categoria": "Cursa espacial",
+      "text": "Luna 9 (URSS) 3/2",
+      "media": "e:/cronologia/fotos/luna9.jpg"
+    },
+    {
+      "yearStart": 1971,
+      "categoria": "Cursa espacial",
+      "text": "Salyut 1 (URSS) 19/4 // Mars 3 (URSS) 15/6",
+      "media": ""
+    },
+    {
+      "yearStart": 1975,
+      "categoria": "Cursa espacial",
+      "text": "Apolo - Soyuz (EEUU-URSS) 15/7",
+      "media": ""
+    },
+    {
+      "yearStart": 1981,
+      "categoria": "Cursa espacial",
+      "text": "STS-1 Columbia (EEUU) 12/4",
+      "media": ""
+    },
+    {
+      "yearStart": 1986,
+      "yearEnd": null,
+      "categoria": "Cursa espacial",
+      "text": "MIR (URSS) 19/2 // la sonda Giotto vola a 696 km del cometa Halley 14/3",
+      "media": "e:/cronologia/fotos/mir.jpg"
+    },
+    {
+      "yearStart": 1990,
+      "yearEnd": null,
+      "categoria": "Cursa espacial",
+      "text": "Hubble (EEUU/ESA) 24/4",
+      "media": "e:/cronologia/fotos/hubble.jpg"
+    },
+    {
+      "yearStart": 2012,
+      "yearEnd": null,
+      "categoria": "Cursa espacial",
+      "text": "Rover Curiosity (Mart) (NASA) 6/8",
+      "media": "e:/cronologia/fotos/curiosity.jpg"
+    },
+    {
+      "yearStart": 2021,
+      "yearEnd": null,
+      "categoria": "Cursa espacial",
+      "text": "Ingenuity (Mart) (NASA) 19/4",
+      "media": "e:/cronologia/fotos/heli.jpg"
+    },
+    {
+      "yearStart": 2022,
+      "yearEnd": null,
+      "categoria": "Cursa espacial",
+      "text": "Artemis I (Lluna) (NASA) 16/11",
+      "media": "e:/cronologia/fotos/artemis.jpg"
+    },
+    {
+      "yearStart": 2023,
+      "yearEnd": null,
+      "categoria": "Cursa espacial",
+      "text": "Chandrayaan-3 (Lluna) (Índia)",
+      "media": "e:/cronologia/fotos/india.jpg"
+    },
+    {
+      "yearStart": 1954,
+      "yearEnd": null,
+      "categoria": "Nobel Literatura",
+      "text": "Ernest Hemingway",
+      "media": "e:/cronologia/fotos/Hemingway.jpg"
+    },
+    {
+      "yearStart": 1956,
+      "yearEnd": null,
+      "categoria": "Nobel Literatura",
+      "text": "Juan Ramón Jiménez",
+      "media": "e:/cronologia/fotos/jrjimenez.jpg"
+    },
+    {
+      "yearStart": 1957,
+      "yearEnd": null,
+      "categoria": "Nobel Literatura",
+      "text": "Albert Camus",
+      "media": "e:/cronologia/fotos/camus.jpg"
+    },
+    {
+      "yearStart": 1958,
+      "categoria": "Nobel Literatura",
+      "text": "Boris Pasternak",
+      "media": ""
+    },
+    {
+      "yearStart": 1959,
+      "categoria": "Nobel Literatura",
+      "text": "Salvatore Quasimodo",
+      "media": ""
+    },
+    {
+      "yearStart": 1962,
+      "categoria": "Nobel Literatura",
+      "text": "John Steinbeck",
+      "media": ""
+    },
+    {
+      "yearStart": 1964,
+      "categoria": "Nobel Literatura",
+      "text": "Jean Paul Sartre",
+      "media": ""
+    },
+    {
+      "yearStart": 1967,
+      "categoria": "Nobel Literatura",
+      "text": "Miguel Ángel Asturias",
+      "media": ""
+    },
+    {
+      "yearStart": 1968,
+      "categoria": "Nobel Literatura",
+      "text": "Yasunari Kawabata",
+      "media": ""
+    },
+    {
+      "yearStart": 1969,
+      "categoria": "Nobel Literatura",
+      "text": "Samuel Beckett",
+      "media": ""
+    },
+    {
+      "yearStart": 1970,
+      "categoria": "Nobel Literatura",
+      "text": "Aleksandr Solzhenitsyn",
+      "media": ""
+    },
+    {
+      "yearStart": 1971,
+      "categoria": "Nobel Literatura",
+      "text": "Pablo Neruda",
+      "media": ""
+    },
+    {
+      "yearStart": 1972,
+      "categoria": "Nobel Literatura",
+      "text": "Heinrich Böll",
+      "media": ""
+    },
+    {
+      "yearStart": 1977,
+      "categoria": "Nobel Literatura",
+      "text": "Vicente Aleixandre",
+      "media": ""
+    },
+    {
+      "yearStart": 1982,
+      "categoria": "Nobel Literatura",
+      "text": "Gabriel García Márquez",
+      "media": "e:/cronologia/fotos/gabo.jpg"
+    },
+    {
+      "yearStart": 1989,
+      "categoria": "Nobel Literatura",
+      "text": "Camilo José Cela",
+      "media": "E:/cronologia/fotos/CJCela.jpg"
+    },
+    {
+      "yearStart": 1990,
+      "categoria": "Nobel Literatura",
+      "text": "Octavio Paz",
+      "media": ""
+    },
+    {
+      "yearStart": 1997,
+      "categoria": "Nobel Literatura",
+      "text": "Darío Fo",
+      "media": ""
+    },
+    {
+      "yearStart": 1998,
+      "categoria": "Nobel Literatura",
+      "text": "José Saramago",
+      "media": ""
+    },
+    {
+      "yearStart": 1999,
+      "categoria": "Nobel Literatura",
+      "text": "Günter Grass",
+      "media": ""
+    },
+    {
+      "yearStart": 2010,
+      "categoria": "Nobel Literatura",
+      "text": "Mario Vargas Llosa",
+      "media": "e:/cronologia/fotos/vargasllosa.jpg"
+    },
+    {
+      "yearStart": 2016,
+      "categoria": "Nobel Literatura",
+      "text": "Bob Dylan",
+      "media": "e:/cronologia/fotos/dylan.jpg"
+    },
+    {
+      "yearStart": 1959,
+      "yearEnd": null,
+      "categoria": "Premi Nobel",
+      "text": "Severo Ochoa, Medicina o Fisiologia",
+      "media": "e:/cronologia/fotos/ochoa.jpg"
+    },
+    {
+      "yearStart": 1954,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Elia Kazan: La ley del silencio",
+      "media": "e:/cronologia/fotos/oscar54.jpg"
+    },
+    {
+      "yearStart": 1958,
+      "yearEnd": null,
+      "categoria": "Sèries TV",
+      "text": "Rin Tin Tin",
+      "media": "e:/cronologia/fotos/rintintin.jpg"
+    },
+    {
+      "yearStart": 1954,
+      "categoria": "Jocs Olímpics",
+      "text": "prova JJOO",
+      "media": ""
+    },
+    {
+      "yearStart": 1954,
+      "categoria": "Fires mundials",
+      "text": "prova Fira",
+      "media": ""
+    },
+    {
+      "yearStart": 1962,
+      "yearEnd": 1967,
+      "categoria": "estudis / feina",
+      "text": "San Felip Neri",
+      "media": ""
+    },
+    {
+      "yearStart": 1968,
+      "yearEnd": 1970,
+      "categoria": "estudis / feina",
+      "text": "Ramon Llull",
+      "media": ""
+    },
+    {
+      "yearStart": 1973,
+      "yearEnd": 1978,
+      "categoria": "estudis / feina",
+      "text": "Cornelius de España",
+      "media": ""
+    },
+    {
+      "yearStart": 1979,
+      "yearEnd": 1990,
+      "categoria": "estudis / feina",
+      "text": "F. de B. Moll / Editorial Moll",
+      "media": "e:/xisco i família/tià___2.jpg"
+    },
+    {
+      "yearStart": 1990,
+      "yearEnd": 2019,
+      "categoria": "estudis / feina",
+      "text": "GOB",
+      "media": ""
+    },
+    {
+      "yearStart": 2019,
+      "yearEnd": 2025,
+      "categoria": "estudis / feina",
+      "text": "Pensionista",
+      "media": ""
+    },
+    {
+      "yearStart": 1955,
+      "yearEnd": 1956,
+      "categoria": "Bisbes de Mallorca",
+      "text": "Jesús Enciso Viana",
+      "media": ""
+    },
+    {
+      "yearStart": 1965,
+      "yearEnd": 1966,
+      "categoria": "Bisbes de Mallorca",
+      "text": "Rafael Álvarez Lara",
+      "media": ""
+    },
+    {
+      "yearStart": 1972,
+      "yearEnd": 1973,
+      "categoria": "Bisbes de Mallorca",
+      "text": "Teodor Úbeda Gramage",
+      "media": ""
+    },
+    {
+      "yearStart": 2003,
+      "yearEnd": 2004,
+      "categoria": "Bisbes de Mallorca",
+      "text": "Jesús Murgui Soriano",
+      "media": ""
+    },
+    {
+      "yearStart": 2012,
+      "yearEnd": 2013,
+      "categoria": "Bisbes de Mallorca",
+      "text": "Javier Salinas Viñals",
+      "media": ""
+    },
+    {
+      "yearStart": 2016,
+      "yearEnd": 2025,
+      "categoria": "Bisbes de Mallorca",
+      "text": "Sebastià Taltavull Anglada",
+      "media": ""
+    },
+    {
+      "yearStart": 1956,
+      "yearEnd": 1957,
+      "categoria": "Governadors Civils",
+      "text": "Plácido Álvarez-Buylla López-Villamil",
+      "media": ""
+    },
+    {
+      "yearStart": 1968,
+      "yearEnd": 1969,
+      "categoria": "Governadors Civils",
+      "text": "Víctor Helín Sol",
+      "media": ""
+    },
+    {
+      "yearStart": 1972,
+      "yearEnd": 1973,
+      "categoria": "Governadors Civils",
+      "text": "Enrique Ramos Fernández",
+      "media": ""
+    },
+    {
+      "yearStart": 1974,
+      "yearEnd": 1975,
+      "categoria": "Governadors Civils",
+      "text": "Carlos de Meer Ribera",
+      "media": ""
+    },
+    {
+      "yearStart": 1976,
+      "yearEnd": 1977,
+      "categoria": "Governadors Civils",
+      "text": "Ramiro Pérez-Maura / Manuel Martín Arias",
+      "media": ""
+    },
+    {
+      "yearStart": 1979,
+      "yearEnd": 1980,
+      "categoria": "Governadors Civils",
+      "text": "Jacinto Ballesté Perarnau",
+      "media": ""
+    },
+    {
+      "yearStart": 1982,
+      "yearEnd": 2025,
+      "categoria": "Governadors Civils",
+      "text": "Manuel Morales Bonilla / Carlos Martín Plasencia",
+      "media": ""
+    },
+    {
+      "yearStart": 1963,
+      "yearEnd": 1964,
+      "categoria": "Batles de Palma",
+      "text": "Màxim Alomar",
+      "media": ""
+    },
+    {
+      "yearStart": 1968,
+      "yearEnd": 1969,
+      "categoria": "Batles de Palma",
+      "text": "Gabriel Alzamora",
+      "media": ""
+    },
+    {
+      "yearStart": 1972,
+      "yearEnd": 1973,
+      "categoria": "Batles de Palma",
+      "text": "Rafael de la Rosa",
+      "media": ""
+    },
+    {
+      "yearStart": 1976,
+      "yearEnd": 1977,
+      "categoria": "Batles de Palma",
+      "text": "Paulí Buchens Adrover",
+      "media": ""
+    },
+    {
+      "yearStart": 1979,
+      "yearEnd": 1980,
+      "categoria": "Batles de Palma",
+      "text": "Ramon Aguiló Munar",
+      "media": ""
+    },
+    {
+      "yearStart": 1991,
+      "yearEnd": 1992,
+      "categoria": "Batles de Palma",
+      "text": "Joan Fageda Aubert",
+      "media": ""
+    },
+    {
+      "yearStart": 2003,
+      "yearEnd": 2004,
+      "categoria": "Batles de Palma",
+      "text": "Catalina Cirer Adrover",
+      "media": ""
+    },
+    {
+      "yearStart": 2007,
+      "yearEnd": 2008,
+      "categoria": "Batles de Palma",
+      "text": "Aina Calvo Sastre",
+      "media": ""
+    },
+    {
+      "yearStart": 2011,
+      "yearEnd": 2012,
+      "categoria": "Batles de Palma",
+      "text": "Mateu Isern Estela",
+      "media": ""
+    },
+    {
+      "yearStart": 2015,
+      "yearEnd": 2016,
+      "categoria": "Batles de Palma",
+      "text": "José Hila Vargas",
+      "media": ""
+    },
+    {
+      "yearStart": 2017,
+      "yearEnd": 2018,
+      "categoria": "Batles de Palma",
+      "text": "Antoni Noguera Ortega",
+      "media": ""
+    },
+    {
+      "yearStart": 2019,
+      "yearEnd": 2020,
+      "categoria": "Batles de Palma",
+      "text": "José Hila Vargas",
+      "media": ""
+    },
+    {
+      "yearStart": 2023,
+      "yearEnd": 2025,
+      "categoria": "Batles de Palma",
+      "text": "Jaime Martínez Llabrés",
+      "media": ""
+    },
+    {
+      "yearStart": 2021,
+      "yearEnd": null,
+      "categoria": "reste família Pol-Salom",
+      "text": "1/11 mor Andreu Pol Nicolau (99 anys)",
+      "media": "E:/Canon/Canon 60D/2015/IMG_5857.jpg"
+    },
+    {
+      "yearStart": 1954,
+      "categoria": "MEsperança / Xisco / Alicia",
+      "text": "na M.Esperança va néixer 8/2/1953",
+      "media": ""
+    },
+    {
+      "yearStart": 1986,
+      "categoria": "MEsperança / Xisco / Alicia",
+      "text": "neix en Xavier Daniel",
+      "media": ""
+    },
+    {
+      "yearStart": 1965,
+      "categoria": "MEsperança / Xisco / Alicia",
+      "text": "30/5 Primera Comunió Xisco i Alicia",
+      "media": "e:/negatius4/ant018003.jpg"
+    },
+    {
+      "yearStart": 2005,
+      "categoria": "Vida personal",
+      "text": "cáncer gener i març",
+      "media": "e:/finepix/2005/dscf3517.jpg"
+    },
+    {
+      "yearStart": 2005,
+      "categoria": "Jordi",
+      "text": "13è aniversari",
+      "media": "e:/finepix/2005/dscf5825.jpg"
+    },
+    {
+      "yearStart": 1955,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "Fundació Pacte de Varsóvia 14/5",
+      "media": ""
+    },
+    {
+      "yearStart": 1955,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "14/10 Espanya ingressa a l'ONU / inauguració de TVE a Madrid",
+      "media": "e:/cronologia/fotos/onu.jpg"
+    },
+    {
+      "yearStart": 1955,
+      "yearEnd": null,
+      "categoria": "geopolítica",
+      "text": "Albània, Àustria, Bulgària, Camboya, Ceilán, Espanya, Finlàndia, Hongria, Irlanda, Itàlia, Jordània, Laos, Líbia, Nepal, Portugal i Romania són admesos a l'ONU",
+      "media": ""
+    },
+    {
+      "yearStart": 1959,
+      "yearEnd": null,
+      "categoria": "papàs",
+      "text": "família nombrosa",
+      "media": "E:/Xisco i família/llibre_família.jpg"
+    },
+    {
+      "yearStart": 1961,
+      "yearEnd": null,
+      "categoria": "MEsperança / Xisco / Alicia",
+      "text": "Xisco 4 anys",
+      "media": "e:/negatius4/ant039003.jpg"
+    },
+    {
+      "yearStart": 1960,
+      "yearEnd": null,
+      "categoria": "geopolítica",
+      "text": "Any d'Àfrica (independència 17 països)",
+      "media": ""
+    },
+    {
+      "yearStart": 1990,
+      "yearEnd": null,
+      "categoria": "geopolítica",
+      "text": "reunificació d'Alemanya",
+      "media": ""
+    },
+    {
+      "yearStart": 1991,
+      "yearEnd": null,
+      "categoria": "geopolítica",
+      "text": "enfonsament de l'URSS / dissolució de Iugoslàvia",
+      "media": ""
+    },
+    {
+      "yearStart": 1993,
+      "yearEnd": null,
+      "categoria": "geopolítica",
+      "text": "Dissolució de Txecoslovàquia",
+      "media": ""
+    },
+    {
+      "yearStart": 2002,
+      "yearEnd": null,
+      "categoria": "geopolítica",
+      "text": "independència de Timor (d'Indonèsia)",
+      "media": ""
+    },
+    {
+      "yearStart": 2011,
+      "yearEnd": null,
+      "categoria": "geopolítica",
+      "text": "independència de Sudan del Sud (de Sudan)",
+      "media": ""
+    },
+    {
+      "yearStart": 2014,
+      "yearEnd": null,
+      "categoria": "geopolítica",
+      "text": "Rússia s'anexiona Crimea 18/3",
+      "media": ""
+    },
+    {
+      "yearStart": 2022,
+      "yearEnd": null,
+      "categoria": "geopolítica",
+      "text": "invasió d'Ucraïna per part de Rússia",
+      "media": ""
+    },
+    {
+      "yearStart": 1964,
+      "yearEnd": 1982,
+      "categoria": "presidents URSS/Rússia",
+      "text": "Leonid Brézhnev 14/10/64-10/11/82",
+      "media": "e:/cronologia/fotos/brezhnev.jpg"
+    },
+    {
+      "yearStart": 1982,
+      "yearEnd": 1984,
+      "categoria": "presidents URSS/Rússia",
+      "text": "Yuri Andrópov 12/11/82-9/2/84",
+      "media": "e:/cronologia/fotos/andropov.jpg"
+    },
+    {
+      "yearStart": 1984,
+      "yearEnd": 1985,
+      "categoria": "presidents URSS/Rússia",
+      "text": "Konstantin Chernenko 13/2/84-10/3/85",
+      "media": "e:/cronologia/fotos/chernenko.jpg"
+    },
+    {
+      "yearStart": 1985,
+      "yearEnd": 1991,
+      "categoria": "presidents URSS/Rússia",
+      "text": "Mijail Gorbachov 11/3/85-25/12/91",
+      "media": "e:/cronologia/fotos/gorbachov.jpg"
+    },
+    {
+      "yearStart": 1991,
+      "yearEnd": 1999,
+      "categoria": "presidents URSS/Rússia",
+      "text": "Boris Yeltsin 10/7/91-31/12/99",
+      "media": "e:/cronologia/fotos/boris.jpg"
+    },
+    {
+      "yearStart": 1999,
+      "yearEnd": 2008,
+      "categoria": "presidents URSS/Rússia",
+      "text": "Vladimir Putin 31/12/99-7/5/08",
+      "media": "e:/cronologia/fotos/putin1.jpg"
+    },
+    {
+      "yearStart": 2008,
+      "yearEnd": 2012,
+      "categoria": "presidents URSS/Rússia",
+      "text": "Dmitri Medvédev 7/5/08-7/5/12",
+      "media": "e:/cronologia/fotos/medvedev.jpg"
+    },
+    {
+      "yearStart": 2012,
+      "yearEnd": null,
+      "categoria": "presidents URSS/Rússia",
+      "text": "Vladimir Putin 7/5/2012-",
+      "media": "e:/cronologia/fotos/putin2.jpg"
+    },
+    {
+      "yearStart": 1963,
+      "yearEnd": null,
+      "categoria": "presidents Alemanya",
+      "text": "Ludwig Erhard (RFA)",
+      "media": "e:/cronologia/fotos/erhard.jpg"
+    },
+    {
+      "yearStart": 1966,
+      "yearEnd": null,
+      "categoria": "presidents Alemanya",
+      "text": "Kurt Georg Kiesinger (RFA)",
+      "media": "e:/cronologia/fotos/kiesinger.jpg"
+    },
+    {
+      "yearStart": 1969,
+      "yearEnd": null,
+      "categoria": "presidents Alemanya",
+      "text": "Willy Brandt (RFA)",
+      "media": "e:/cronologia/fotos/brandt.jpg"
+    },
+    {
+      "yearStart": 1974,
+      "yearEnd": null,
+      "categoria": "presidents Alemanya",
+      "text": "Helmut Schmidt (RFA)",
+      "media": "e:/cronologia/fotos/schmidt.jpg"
+    },
+    {
+      "yearStart": 1982,
+      "yearEnd": null,
+      "categoria": "presidents Alemanya",
+      "text": "Helmut Kohl (RFA)",
+      "media": "e:/cronologia/fotos/kohl.jpg"
+    },
+    {
+      "yearStart": 1960,
+      "yearEnd": null,
+      "categoria": "presidents Alemanya",
+      "text": "Walter Ulbricht (RDA)",
+      "media": "e:/cronologia/fotos/ulbricht.jpg"
+    },
+    {
+      "yearStart": 1976,
+      "yearEnd": null,
+      "categoria": "presidents Alemanya",
+      "text": "Erich Honecker (RDA)",
+      "media": "e:/cronologia/fotos/honecker.jpg"
+    },
+    {
+      "yearStart": 1989,
+      "yearEnd": null,
+      "categoria": "presidents Alemanya",
+      "text": "Egon Krenz (RDA)",
+      "media": "e:/cronologia/fotos/krenz.jpg"
+    },
+    {
+      "yearStart": 1990,
+      "yearEnd": 1998,
+      "categoria": "presidents Alemanya",
+      "text": "Helmut Kohl",
+      "media": "e:/cronologia/fotos/kohl2.jpg"
+    },
+    {
+      "yearStart": 1998,
+      "yearEnd": 2005,
+      "categoria": "presidents Alemanya",
+      "text": "Gerhard Schröder",
+      "media": "e:/cronologia/fotos/Schroeder.jpg"
+    },
+    {
+      "yearStart": 2005,
+      "yearEnd": 2021,
+      "categoria": "presidents Alemanya",
+      "text": "Angela Merkel",
+      "media": "e:/cronologia/fotos/merkel.jpg"
+    },
+    {
+      "yearStart": 2021,
+      "yearEnd": null,
+      "categoria": "presidents Alemanya",
+      "text": "Olaf Scholz",
+      "media": "e:/cronologia/fotos/scholz.jpg"
+    },
+    {
+      "yearStart": 1954,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "cop d'estat a Guatemala 27/6",
+      "media": ""
+    },
+    {
+      "yearStart": 1959,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "triomf de Fidel Castro a Cuba",
+      "media": "e:/cronologia/fotos/castro59.jpg"
+    },
+    {
+      "yearStart": 1961,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "es comença a construir el Mur de Berlin 13/8",
+      "media": "e:/cronologia/fotos/muro61.jpg"
+    },
+    {
+      "yearStart": 1962,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "crisi del Míssils a Cuba 16/10",
+      "media": "e:/cronologia/fotos/misiles.jpg"
+    },
+    {
+      "yearStart": 1963,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "assassinat de John F. Kennedy 22/11",
+      "media": "e:/cronologia/fotos/jfk63.jpg"
+    },
+    {
+      "yearStart": 1964,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "dictadura militar a Brasil",
+      "media": "e:/cronologia/fotos/brasil64.jpg"
+    },
+    {
+      "yearStart": 1965,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "escalada militar a Vietnam (intervenció EUA)",
+      "media": ""
+    },
+    {
+      "yearStart": 1966,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "comença Revolució Cultural a Xina",
+      "media": ""
+    },
+    {
+      "yearStart": 1968,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "Primavera de Praga (invasió soviètica)",
+      "media": ""
+    },
+    {
+      "yearStart": 1971,
+      "yearEnd": null,
+      "categoria": "geopolítica",
+      "text": "independència de Bangladesh (de Pakistan)",
+      "media": ""
+    },
+    {
+      "yearStart": 1972,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "Nixon visita Xina",
+      "media": "e:/cronologia/fotos/nixon_mao.jpg"
+    },
+    {
+      "yearStart": 1973,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "cop d'estat a Xile (Allende derrocat)",
+      "media": "e:/cronologia/fotos/chile73.jpg"
+    },
+    {
+      "yearStart": 1974,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "renúncia de Richard Nixon (Watergate, 9/8)",
+      "media": "e:/cronologia/fotos/watergate.jpg"
+    },
+    {
+      "yearStart": 1975,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "final guerra Vietnam",
+      "media": "e:/cronologia/fotos/vietnam75.jpg"
+    },
+    {
+      "yearStart": 1976,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "massacre Soweto (Sudàfrica)",
+      "media": "e:/cronologia/fotos/soweto.jpg"
+    },
+    {
+      "yearStart": 1978,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "9/5 assassinat Aldo Moro / 17/9 Acords de Camp David",
+      "media": "e:/cronologia/fotos/camp david.jpg"
+    },
+    {
+      "yearStart": 1979,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "revolució iraní",
+      "media": "e:/cronologia/fotos/jomeini.jpg"
+    },
+    {
+      "yearStart": 1980,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "Sindicat Solidaritat (Polònia)",
+      "media": "e:/cronologia/fotos/walesa.jpg"
+    },
+    {
+      "yearStart": 1981,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "atemptat contra Ronald Reagan",
+      "media": "e:/cronologia/fotos/reagan81.jpg"
+    },
+    {
+      "yearStart": 1983,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "invasió de Granada per part d'EUA",
+      "media": "e:/cronologia/fotos/grenada.jpg"
+    },
+    {
+      "yearStart": 1984,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "assassinat d'Indira Gandhi",
+      "media": "e:/cronologia/fotos/indira.jpg"
+    },
+    {
+      "yearStart": 1985,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "Perestroika",
+      "media": "e:/cronologia/fotos/perestroika.jpg"
+    },
+    {
+      "yearStart": 1986,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "26/4 accident de Chernobil",
+      "media": ""
+    },
+    {
+      "yearStart": 1987,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "Black Monday (caiguda borsa)",
+      "media": ""
+    },
+    {
+      "yearStart": 1988,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "atemptat de Lockerbie (vol Pan Am 103) 21/12",
+      "media": ""
+    },
+    {
+      "yearStart": 1989,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "caiguda del Mur de Berlin 9/11",
+      "media": ""
+    },
+    {
+      "yearStart": 1990,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "invasió de Kuwait per part d'Irak",
+      "media": ""
+    },
+    {
+      "yearStart": 1993,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "Acords d'Oslo entre Israel i OLP",
+      "media": ""
+    },
+    {
+      "yearStart": 1994,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "assassinat presidents Ruanda i Burundi 6/4. Comença el genocidi a Ruanda",
+      "media": ""
+    },
+    {
+      "yearStart": 1995,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "atemptat a Oklahoma City",
+      "media": ""
+    },
+    {
+      "yearStart": 1996,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "Kabul en poder dels taliban",
+      "media": ""
+    },
+    {
+      "yearStart": 1997,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "mor Diana Spencer (Lady Di) 31/8",
+      "media": ""
+    },
+    {
+      "yearStart": 1998,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "proves nuclears a Índia i Pakistan",
+      "media": ""
+    },
+    {
+      "yearStart": 2001,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "atemptat Torres Bessones 11/9",
+      "media": ""
+    },
+    {
+      "yearStart": 2002,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "introducció de l'euro",
+      "media": ""
+    },
+    {
+      "yearStart": 2003,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "invasió d'Iraq per part d'EUA",
+      "media": ""
+    },
+    {
+      "yearStart": 2004,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "tsunami a l'Oceà Índic 26/12",
+      "media": ""
+    },
+    {
+      "yearStart": 2005,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "atemptats de Londres 7/7",
+      "media": ""
+    },
+    {
+      "yearStart": 2006,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "execució de Saddam Hussein (Iraq) 30/12",
+      "media": ""
+    },
+    {
+      "yearStart": 2007,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "crisi financera global",
+      "media": ""
+    },
+    {
+      "yearStart": 2010,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "Primavera Àrab (Tunis) / terratremol a Haití",
+      "media": ""
+    },
+    {
+      "yearStart": 2011,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "assassinat d'Osama Bin Laden 2/5",
+      "media": ""
+    },
+    {
+      "yearStart": 2012,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "intensificació de la guerra de Síria",
+      "media": ""
+    },
+    {
+      "yearStart": 2016,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "referéndum del Brexit 23/6",
+      "media": ""
+    },
+    {
+      "yearStart": 2017,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "escalada proves míssils Corea del Nord",
+      "media": ""
+    },
+    {
+      "yearStart": 2018,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "assassinat de Jamal Khashoggi 2/10",
+      "media": ""
+    },
+    {
+      "yearStart": 2019,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "aparició COVID-19 a Wuhan (Xina) 31/12",
+      "media": ""
+    },
+    {
+      "yearStart": 2020,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "OMS declara pandèmia global COVID-19 11/3",
+      "media": ""
+    },
+    {
+      "yearStart": 2021,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "EUA es retira d'Afganistan",
+      "media": ""
+    },
+    {
+      "yearStart": 2022,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "invasió d'Ucraïna per part de Rússia 24/2 / mor Isabel II 8/9",
+      "media": ""
+    },
+    {
+      "yearStart": 2023,
+      "yearEnd": null,
+      "categoria": "notícies del món",
+      "text": "atac de Hamas a Israel 7/10",
+      "media": ""
+    },
+    {
+      "yearStart": 1960,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "Boom turístic, infrastructures hoteleres anys 60 / 19-23/4 I Congrés internacional de Lul·lisme a Formentor / 18/7 TVE emet per primera vegada a Mallorca",
+      "media": ""
+    },
+    {
+      "yearStart": 1973,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "4/1 inauguració de la galeria 4 Gats / creació de la Universitat (UIB) / 4/8 Marivent serà residència dels prínceps d'Espanya / 21/9 protegida la dàrsena de Can Barbarà / 1/12 nevada a Palma / 27/12 arriba el turista 7 milions",
+      "media": ""
+    },
+    {
+      "yearStart": 1978,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "la Constitució Espanyola reconeix l'Autonomia de les Balears",
+      "media": ""
+    },
+    {
+      "yearStart": 1983,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "primer Estatut d'Autonomia de Balears",
+      "media": ""
+    },
+    {
+      "yearStart": 1999,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "aprovació de la Llei d'Espais Naturals",
+      "media": ""
+    },
+    {
+      "yearStart": 2001,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "atemptat d'ETA a Mallorca",
+      "media": ""
+    },
+    {
+      "yearStart": 2007,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "Balears rep la competència de Costes",
+      "media": ""
+    },
+    {
+      "yearStart": 2009,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "atemptat d'ETA a Palmanova",
+      "media": ""
+    },
+    {
+      "yearStart": 2010,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "casos corrupció Palma Arena i Nóos",
+      "media": ""
+    },
+    {
+      "yearStart": 2011,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "crisi econòmica afecta el turisme",
+      "media": ""
+    },
+    {
+      "yearStart": 2016,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "aplicació 'ecotaxa'",
+      "media": ""
+    },
+    {
+      "yearStart": 2017,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "debat saturació de creuers",
+      "media": ""
+    },
+    {
+      "yearStart": 2019,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "limitació del turisme de 'botellot' a Magalluf i Platja de Palma",
+      "media": ""
+    },
+    {
+      "yearStart": 2020,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "confinament total pel COVID-19",
+      "media": ""
+    },
+    {
+      "yearStart": 2021,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "recuperació parcial del turisme després de la pandèmia",
+      "media": ""
+    },
+    {
+      "yearStart": 2022,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "restriccions als vehicles de lloguer",
+      "media": ""
+    },
+    {
+      "yearStart": 2023,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "debat sobre la sostenibilitat",
+      "media": ""
+    },
+    {
+      "yearStart": 2024,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "manifestacions contra la massificació turística",
+      "media": ""
+    },
+    {
+      "yearStart": 1956,
+      "yearEnd": null,
+      "categoria": "geopolítica",
+      "text": "Marroc s'independitza de França",
+      "media": ""
+    },
+    {
+      "yearStart": 1956,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "protestes estudiantils a Madrid / primeres emissions de TV a Madrid 28/10",
+      "media": "e:/cronologia/fotos/tve.jpg"
+    },
+    {
+      "yearStart": 1957,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "gran Riuada del Túria 14/10",
+      "media": "e:/cronologia/fotos/turia.jpg"
+    },
+    {
+      "yearStart": 1958,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "15/9 Espanya s'incorpora al FMI",
+      "media": "e:/cronologia/fotos/fmi.jpg"
+    },
+    {
+      "yearStart": 1959,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "1/4 Franco inaugura el Valle de los Caídos",
+      "media": "e:/cronologia/fotos/valle.jpg"
+    },
+    {
+      "yearStart": 1960,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "turisme massiu",
+      "media": "e:/cronologia/fotos/turisme.jpg"
+    },
+    {
+      "yearStart": 1961,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "tensió per la descolonització del Sahara",
+      "media": "e:/cronologia/fotos/sahara.jpg"
+    },
+    {
+      "yearStart": 1962,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "protestes contra el règim franquista",
+      "media": "e:/cronologia/fotos/mani.jpg"
+    },
+    {
+      "yearStart": 1963,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "acords comercials amb Europa",
+      "media": ""
+    },
+    {
+      "yearStart": 1964,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "Congrés Eucarístic a Barcelona",
+      "media": ""
+    },
+    {
+      "yearStart": 1965,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "primers grans atemptats d'ETA",
+      "media": ""
+    },
+    {
+      "yearStart": 1966,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "Lei Orgánica del Estado",
+      "media": ""
+    },
+    {
+      "yearStart": 1967,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "reformes educatives / modernització industrial",
+      "media": ""
+    },
+    {
+      "yearStart": 1968,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "moviment estudiantil i obrer",
+      "media": ""
+    },
+    {
+      "yearStart": 1969,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "Joan Carles anomenat successor",
+      "media": "e:/cronologia/fotos/successor.jpg"
+    },
+    {
+      "yearStart": 1970,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "crisi social i vagues",
+      "media": ""
+    },
+    {
+      "yearStart": 1971,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "oposició clandestina i atemptats",
+      "media": ""
+    },
+    {
+      "yearStart": 1972,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "creixen les protestes laborals",
+      "media": ""
+    },
+    {
+      "yearStart": 1973,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "20/12 assassinat de Carrero Blanco",
+      "media": "e:/cronologia/fotos/carrero.jpg"
+    },
+    {
+      "yearStart": 1974,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "crisi política al règim",
+      "media": ""
+    },
+    {
+      "yearStart": 1975,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "27/9 afusellats 5 activistes del FRAP i ETA / 20/11 Franco mor / 22/11 el príncep Joan Carles de Borbó és proclamat  rei d'Espanya / comença la Transició",
+      "media": "e:/cronologia/fotos/arias-20n.png"
+    },
+    {
+      "yearStart": 1976,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "Llei per a la Reforma Política / amnistia política",
+      "media": ""
+    },
+    {
+      "yearStart": 1977,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "primeres eleccions democràtiques / legalització de partits polítics / 27/3 accident a los Rodeos: 583 morts",
+      "media": "e:/cronologia/fotos/rodeos.jpg"
+    },
+    {
+      "yearStart": 1978,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "31/10 aprovació de la Constitució Espanyola  / Autonomies",
+      "media": ""
+    },
+    {
+      "yearStart": 1979,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "eleccions municipals i autonòmiques",
+      "media": ""
+    },
+    {
+      "yearStart": 1980,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "nacionalisme basc i violència",
+      "media": "e:/cronologia/fotos/ikurriña.jpg"
+    },
+    {
+      "yearStart": 1981,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "23 F: intent de cop d'Estat",
+      "media": "e:/cronologia/fotos/23f.jpg"
+    },
+    {
+      "yearStart": 1982,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "victòria del PSOE / Pla econòmic de modernització",
+      "media": ""
+    },
+    {
+      "yearStart": 1983,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "creixement de polítiques socials",
+      "media": ""
+    },
+    {
+      "yearStart": 1984,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "reformes educatives i sanitàries",
+      "media": ""
+    },
+    {
+      "yearStart": 1985,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "5/7 Llei Avortament / acord d'adhesió a la CEE / modernització sector agrícola i pesquer",
+      "media": "e:/cronologia/fotos/avortament.jpg"
+    },
+    {
+      "yearStart": 1986,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "ingrés a la CEE / debat OTAN Sí, OTAN No",
+      "media": "e:/cronologia/fotos/otan.jpg"
+    },
+    {
+      "yearStart": 1987,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "desenvolupament d'infrastructures i fons estructurals",
+      "media": ""
+    },
+    {
+      "yearStart": 1988,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "reformes industrials i tecnològiques",
+      "media": ""
+    },
+    {
+      "yearStart": 1989,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "escàndols financers / renovació política i europea",
+      "media": ""
+    },
+    {
+      "yearStart": 1990,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "Pla de modernització econòmica",
+      "media": ""
+    },
+    {
+      "yearStart": 1991,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "recessió econòmica / persistència de la violència d'ETA",
+      "media": ""
+    },
+    {
+      "yearStart": 1992,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "Jocs Olímpics Barcelona / Expo '92 a Sevilla",
+      "media": "e:/cronologia/fotos/barcelona92.jpg"
+    },
+    {
+      "yearStart": 1993,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "govern en minoria i crisi política",
+      "media": ""
+    },
+    {
+      "yearStart": 1994,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "alto el foc d'ETA (trams de treva)",
+      "media": ""
+    },
+    {
+      "yearStart": 1995,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "estabilització macroeconòmica / reformes estructurals continuades",
+      "media": ""
+    },
+    {
+      "yearStart": 1996,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "victòria del PP / inici de reformes liberals",
+      "media": ""
+    },
+    {
+      "yearStart": 1997,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "13/7 assassinat de Miguel Ángel Blanco / debat sobre descentralització autonòmica",
+      "media": ""
+    },
+    {
+      "yearStart": 1998,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "treva i negociacions amb ETA",
+      "media": ""
+    },
+    {
+      "yearStart": 1999,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "preparació per a l'entrada a l'eurozona / modernització d'infrastructures",
+      "media": ""
+    },
+    {
+      "yearStart": 2000,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "majoria absoluta del PP",
+      "media": "e:/cronologia/fotos/aznar2000.jpg"
+    },
+    {
+      "yearStart": 2001,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "11S: impacte política exterior",
+      "media": ""
+    },
+    {
+      "yearStart": 2002,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "introducció de l'Euro / estabilitat macroeconòmica",
+      "media": ""
+    },
+    {
+      "yearStart": 2003,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "grans manifestacions conta la guerra d'Iraq",
+      "media": ""
+    },
+    {
+      "yearStart": 2004,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "atemptats de l'11M a Madrid / triom del PSOE",
+      "media": "e:/cronologia/fotos/11m.png"
+    },
+    {
+      "yearStart": 2005,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "aprovada la Llei de matrimoni igualitari",
+      "media": ""
+    },
+    {
+      "yearStart": 2006,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "nou Estatut d'Autonomia de Catalunya",
+      "media": ""
+    },
+    {
+      "yearStart": 2007,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "creixement econòmic i boom immobiliari",
+      "media": ""
+    },
+    {
+      "yearStart": 2008,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "crisi financera global afecta Espanya",
+      "media": ""
+    },
+    {
+      "yearStart": 2009,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "profunda recessió / protestes pels retalls socials",
+      "media": ""
+    },
+    {
+      "yearStart": 2010,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "sentència del T.C. sobre l'estatut català",
+      "media": ""
+    },
+    {
+      "yearStart": 2011,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "mobilització del 15M (Indignats) / victòria del PP",
+      "media": ""
+    },
+    {
+      "yearStart": 2012,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "polítiques d'austeritat i protestes socials / crisi econòmica prolongada",
+      "media": ""
+    },
+    {
+      "yearStart": 2013,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "escàndols de corrupció",
+      "media": ""
+    },
+    {
+      "yearStart": 2014,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "abdicació del rei Juan Carlos I 18/6",
+      "media": "e:/cronologia/fotos/abdicació.jpg"
+    },
+    {
+      "yearStart": 2015,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "fragmentació del mapa polític (Podemos, Ciudadanos)",
+      "media": ""
+    },
+    {
+      "yearStart": 2016,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "Parlament en bloqueig i repetició electoral",
+      "media": ""
+    },
+    {
+      "yearStart": 2017,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "1r d'Octubre: referèndum il·legal a Catalunya",
+      "media": "e:/cronologia/fotos/1-o.jpg"
+    },
+    {
+      "yearStart": 2018,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "moció de censura i canvi polític",
+      "media": ""
+    },
+    {
+      "yearStart": 2019,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "repetició eleccions / acord de coalició PSOE-Unidas Podemos",
+      "media": ""
+    },
+    {
+      "yearStart": 2020,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "pandèmia de COVID-19 / greu impacte sanitari i econòmic",
+      "media": "e:/cronologia/fotos/covid.jpg"
+    },
+    {
+      "yearStart": 2021,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "campanya de vacunació massiva",
+      "media": ""
+    },
+    {
+      "yearStart": 2022,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "crisi energètica per la guerra d'Ucraïna",
+      "media": ""
+    },
+    {
+      "yearStart": 2023,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "eleccions generals / ona de calor i events climàtics extrems",
+      "media": ""
+    },
+    {
+      "yearStart": 2024,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "política migratòria i pactes europeus / Dana a València 29/10",
+      "media": "e:/cronologia/fotos/dana.jpg"
+    },
+    {
+      "yearStart": 1957,
+      "yearEnd": null,
+      "categoria": "papàs",
+      "text": "compra de 'Sa Caseta' de Gènova",
+      "media": "e:/finepix/2006/dscf7933.jpg"
+    },
+    {
+      "yearStart": 2025,
+      "yearEnd": null,
+      "categoria": "notícies d_Espanya",
+      "text": "emergència climàtica: ona de calor i récord d'incendis",
+      "media": ""
+    },
+    {
+      "yearStart": 1956,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Michael Anderson: La vuelta al mundo en 80 días",
+      "media": "e:/cronologia/fotos/oscar56.jpg"
+    },
+    {
+      "yearStart": 1957,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "David Lean: El puente sobre el río Kwai",
+      "media": "e:/cronologia/fotos/oscar57.jpg"
+    },
+    {
+      "yearStart": 1958,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Vincente Minnelli: Gigi",
+      "media": "e:/cronologia/fotos/oscar58.jpg"
+    },
+    {
+      "yearStart": 1959,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "William Wyler: Ben-Hur",
+      "media": "e:/cronologia/fotos/oscar59.jpg"
+    },
+    {
+      "yearStart": 1955,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Delbert Mann: Marty",
+      "media": "e:/cronologia/fotos/oscar55.jpg"
+    },
+    {
+      "yearStart": 1971,
+      "yearEnd": null,
+      "categoria": "Vida personal",
+      "text": "a l'hostal Tomarinar, Cala Figuera, sopant amb el meu padrí",
+      "media": "E:/altres fotos/Busser001.jpg"
+    },
+    {
+      "yearStart": 1960,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Billy Wilder: El apartamento",
+      "media": "e:/cronologia/fotos/oscar60.jpg"
+    },
+    {
+      "yearStart": 1961,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Robert Wise, Jerome Robbins: West Side Story",
+      "media": "e:/cronologia/fotos/oscar61.jpg"
+    },
+    {
+      "yearStart": 1962,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "David Lean: Lawrence de Arabia",
+      "media": "e:/cronologia/fotos/oscar62.jpg"
+    },
+    {
+      "yearStart": 1963,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Tony Richardson: Tom Jones",
+      "media": "e:/cronologia/fotos/oscar63.jpg"
+    },
+    {
+      "yearStart": 1964,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "George Cukor: My Fair Lady",
+      "media": "e:/cronologia/fotos/oscar64.jpg"
+    },
+    {
+      "yearStart": 1965,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Robert Wise: Sonrisas y lágrimas",
+      "media": "e:/cronologia/fotos/oscar65.jpg"
+    },
+    {
+      "yearStart": 1966,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Fred Zinnemann: Un hombre para la eternidad",
+      "media": "e:/cronologia/fotos/oscar66.jpg"
+    },
+    {
+      "yearStart": 1967,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Norman Jewison: En el calor de la noche",
+      "media": "e:/cronologia/fotos/oscar67.jpg"
+    },
+    {
+      "yearStart": 1968,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Carol Reed: Oliver!",
+      "media": "e:/cronologia/fotos/oscar68.jpg"
+    },
+    {
+      "yearStart": 1969,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "John Schlesinger: Cowboy de medianoche",
+      "media": "e:/cronologia/fotos/oscar69.jpg"
+    },
+    {
+      "yearStart": 1970,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Franklin J. Schaffner: Patton",
+      "media": "e:/cronologia/fotos/oscar70.jpg"
+    },
+    {
+      "yearStart": 1971,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "William Friedkin: French Connection, contra el imperio de la droga",
+      "media": "e:/cronologia/fotos/oscar71.jpg"
+    },
+    {
+      "yearStart": 1972,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Francis Ford Coppola: El padrino",
+      "media": "e:/cronologia/fotos/oscar72.jpg"
+    },
+    {
+      "yearStart": 1973,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "George Roy Hill: El golpe",
+      "media": "e:/cronologia/fotos/oscar73.jpg"
+    },
+    {
+      "yearStart": 1974,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Francis Ford Coppola: El padrino II",
+      "media": "e:/cronologia/fotos/oscar74.jpg"
+    },
+    {
+      "yearStart": 1975,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Milos Forman: Alguien voló sobre el nido del cuco",
+      "media": "e:/cronologia/fotos/oscar75.jpg"
+    },
+    {
+      "yearStart": 1976,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "John G. Avildsen: Rocky",
+      "media": "e:/cronologia/fotos/oscar76.jpg"
+    },
+    {
+      "yearStart": 1977,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Woody Allen: Annie Hall",
+      "media": "e:/cronologia/fotos/oscar77.jpg"
+    },
+    {
+      "yearStart": 1978,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Michael Cimino: El cazador",
+      "media": "e:/cronologia/fotos/oscar78.jpg"
+    },
+    {
+      "yearStart": 1979,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Robert Benton: Kramer contra Kramer",
+      "media": "e:/cronologia/fotos/oscar79.jpg"
+    },
+    {
+      "yearStart": 1980,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Robert Redford: Gente corriente",
+      "media": "e:/cronologia/fotos/oscar80.jpg"
+    },
+    {
+      "yearStart": 1981,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Hugh Hudson: Carros de fuego",
+      "media": "e:/cronologia/fotos/oscar81.jpg"
+    },
+    {
+      "yearStart": 1982,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Richard Attenborough: Gandhi",
+      "media": "e:/cronologia/fotos/oscar82.jpg"
+    },
+    {
+      "yearStart": 1983,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "James L. Brooks: La fuerza del cariño",
+      "media": "e:/cronologia/fotos/oscar83.jpg"
+    },
+    {
+      "yearStart": 1984,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Milos Forman: Amadeus",
+      "media": "e:/cronologia/fotos/oscar84.jpg"
+    },
+    {
+      "yearStart": 1985,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Sydney Pollack: Memorias de África",
+      "media": "e:/cronologia/fotos/oscar85.jpg"
+    },
+    {
+      "yearStart": 1986,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Oliver Stone: Platoon",
+      "media": "e:/cronologia/fotos/oscar86.jpg"
+    },
+    {
+      "yearStart": 1987,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Bernardo Bertolucci: El último emperador",
+      "media": "e:/cronologia/fotos/oscar87.jpg"
+    },
+    {
+      "yearStart": 1988,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Barry Levinson: Rain Man",
+      "media": "e:/cronologia/fotos/oscar88.jpg"
+    },
+    {
+      "yearStart": 1989,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Bruce Beresford: Paseando a Miss Daisy",
+      "media": "e:/cronologia/fotos/oscar89.jpg"
+    },
+    {
+      "yearStart": 1990,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Kevin Costner: Bailando con lobos",
+      "media": "e:/cronologia/fotos/oscar90.jpg"
+    },
+    {
+      "yearStart": 1991,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Jonathan Demme: El silencio de los corderos",
+      "media": "e:/cronologia/fotos/oscar91.jpg"
+    },
+    {
+      "yearStart": 1992,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Clint Eastwood: Sin perdón",
+      "media": "e:/cronologia/fotos/oscar92.jpg"
+    },
+    {
+      "yearStart": 1993,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Steven Spielberg: La lista de Schindler",
+      "media": "e:/cronologia/fotos/oscar93.jpg"
+    },
+    {
+      "yearStart": 1994,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Robert Zemeckis: Forrest Gump",
+      "media": "e:/cronologia/fotos/oscar94.jpg"
+    },
+    {
+      "yearStart": 1995,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Mel Gibson: Braveheart",
+      "media": "e:/cronologia/fotos/oscar95.jpg"
+    },
+    {
+      "yearStart": 1996,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Anthony Minghella: El paciente inglés",
+      "media": "e:/cronologia/fotos/oscar96.jpg"
+    },
+    {
+      "yearStart": 1997,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "James Cameron: Titanic",
+      "media": "e:/cronologia/fotos/oscar97.jpg"
+    },
+    {
+      "yearStart": 1998,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "John Madden: Shakespeare enamorado",
+      "media": "e:/cronologia/fotos/oscar98.jpg"
+    },
+    {
+      "yearStart": 1999,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Sam Mendes: American Beauty",
+      "media": "e:/cronologia/fotos/oscar99.jpg"
+    },
+    {
+      "yearStart": 2000,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Ridley Scott: Gladiator",
+      "media": "e:/cronologia/fotos/oscar00.jpg"
+    },
+    {
+      "yearStart": 2001,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Ron Howard: Una mente maravillosa",
+      "media": "e:/cronologia/fotos/oscar01.jpg"
+    },
+    {
+      "yearStart": 2002,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Rob Marshall: Chicago",
+      "media": "e:/cronologia/fotos/oscar02.jpg"
+    },
+    {
+      "yearStart": 2003,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Peter Jackson: El señor de los anillos. El retorno del rey",
+      "media": "e:/cronologia/fotos/oscar03.jpg"
+    },
+    {
+      "yearStart": 2004,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Clint Eastwood: Million Dollar Baby",
+      "media": "e:/cronologia/fotos/oscar04.jpg"
+    },
+    {
+      "yearStart": 2005,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Paul Haggis: Crash (Colisión)",
+      "media": "e:/cronologia/fotos/oscar05.jpg"
+    },
+    {
+      "yearStart": 2006,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Martin Scorsese: Infiltrados",
+      "media": "e:/cronologia/fotos/oscar06.jpg"
+    },
+    {
+      "yearStart": 2007,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Joel i Ethan Coen: No es país para viejos",
+      "media": "e:/cronologia/fotos/oscar07.jpg"
+    },
+    {
+      "yearStart": 2008,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Danny Boyle: Slumdog Millionaire",
+      "media": "e:/cronologia/fotos/oscar08.jpg"
+    },
+    {
+      "yearStart": 2009,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Kathryn Bigelow: En tierra hostil",
+      "media": "e:/cronologia/fotos/oscar09.jpg"
+    },
+    {
+      "yearStart": 2010,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Tom Hooper: El discurso del rey",
+      "media": "e:/cronologia/fotos/oscar10.jpg"
+    },
+    {
+      "yearStart": 2011,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Michel Hazanavicius: The Artist",
+      "media": "e:/cronologia/fotos/oscar11.jpg"
+    },
+    {
+      "yearStart": 2012,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Ben Affleck: Argo",
+      "media": "e:/cronologia/fotos/oscar12.jpg"
+    },
+    {
+      "yearStart": 2013,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Steve McQueen:12 años de esclavitud",
+      "media": "e:/cronologia/fotos/oscar13.jpg"
+    },
+    {
+      "yearStart": 2014,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Alejandro G. Iñárritu: Birdman",
+      "media": "e:/cronologia/fotos/oscar14.jpg"
+    },
+    {
+      "yearStart": 2015,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Tom McCarthy: Spotlight",
+      "media": "e:/cronologia/fotos/oscar15.jpg"
+    },
+    {
+      "yearStart": 2016,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Barry Jenkins: Moonlight",
+      "media": "e:/cronologia/fotos/oscar16.jpg"
+    },
+    {
+      "yearStart": 2017,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Guillermo del Toro: La forma del agua",
+      "media": "e:/cronologia/fotos/oscar17.jpg"
+    },
+    {
+      "yearStart": 2018,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Peter Farrelly: Green Book",
+      "media": "e:/cronologia/fotos/oscar18.jpg"
+    },
+    {
+      "yearStart": 2019,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Bong Joon-ho: Parásitos",
+      "media": "e:/cronologia/fotos/oscar19.jpg"
+    },
+    {
+      "yearStart": 2020,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Chloé Zhao: Nomadland",
+      "media": "e:/cronologia/fotos/oscar20.jpg"
+    },
+    {
+      "yearStart": 2021,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Sian Heder: CODA. Los sonidos del silencio",
+      "media": "e:/cronologia/fotos/oscar21.jpg"
+    },
+    {
+      "yearStart": 2022,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Daniel Kwan, Daniel Scheinert: Todo a la vez en todas partes",
+      "media": "e:/cronologia/fotos/oscar22.jpg"
+    },
+    {
+      "yearStart": 2023,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Christopher Nolan: Oppenheimer",
+      "media": "e:/cronologia/fotos/oscar23.jpg"
+    },
+    {
+      "yearStart": 1983,
+      "yearEnd": null,
+      "categoria": "altres Óscar destacats",
+      "text": "José Luis Garci: Volver a empezar (millor pel·lícula de parla no anglesa)",
+      "media": "e:/cronologia/fotos/garci.jpg"
+    },
+    {
+      "yearStart": 2000,
+      "yearEnd": null,
+      "categoria": "altres Óscar destacats",
+      "text": "Pedro Almodóvar: Todo sobre mi madre (millor pel·lícula de parla no anglesa)",
+      "media": "e:/cronologia/fotos/almodovar1.jpg"
+    },
+    {
+      "yearStart": 2003,
+      "yearEnd": null,
+      "categoria": "altres Óscar destacats",
+      "text": "Pedro Almodóvar: Hable con ella (millor guió original)",
+      "media": "e:/cronologia/fotos/almodovar2.jpg"
+    },
+    {
+      "yearStart": 2007,
+      "yearEnd": null,
+      "categoria": "altres Óscar destacats",
+      "text": "Javier Bardem (No es país para viejos) Millor actor secundari",
+      "media": "e:/cronologia/fotos/bardem.jpg"
+    },
+    {
+      "yearStart": 2008,
+      "yearEnd": null,
+      "categoria": "altres Óscar destacats",
+      "text": "Penélope Cruz (Vicky Cristina Barcelona) Millor actriu secundària",
+      "media": "e:/cronologia/fotos/cruz.jpg"
+    },
+    {
+      "yearStart": 1968,
+      "yearEnd": null,
+      "categoria": "guerres",
+      "text": "execució a Saigon",
+      "media": "e:/cronologia/fotos/saigon.jpg"
+    },
+    {
+      "yearStart": 1972,
+      "yearEnd": null,
+      "categoria": "guerres",
+      "text": "Kim Phuc fuig d'un bombardeig de napalm a Vietnam del Sud",
+      "media": "e:/cronologia/fotos/kim phuc.jpg"
+    },
+    {
+      "yearStart": 2024,
+      "yearEnd": null,
+      "categoria": "Oscar millor pel.lícula",
+      "text": "Sean Baker: Anora",
+      "media": "e:/cronologia/fotos/oscar24.jpg"
+    },
+    {
+      "yearStart": 1972,
+      "yearEnd": null,
+      "categoria": "altres Óscar destacats",
+      "text": "Luis Buñuel: El discreto encanto de la burguesía (millor pel·lícula de parla no anglesa)",
+      "media": "e:/cronologia/fotos/buñuel72.jpg"
+    },
+    {
+      "yearStart": 1992,
+      "yearEnd": null,
+      "categoria": "altres Óscar destacats",
+      "text": "Fernando Trueba: Belle Époque (millor pel·lícula de parla no anglesa)",
+      "media": "e:/cronologia/fotos/trueba92.jpg"
+    },
+    {
+      "yearStart": 2005,
+      "yearEnd": null,
+      "categoria": "altres Óscar destacats",
+      "text": "Alejandro Amenábar: Mar adentro (millor pel·lícula de parla no anglesa)",
+      "media": "e:/cronologia/fotos/amenabar05.jpg"
+    },
+    {
+      "yearStart": 1978,
+      "yearEnd": null,
+      "categoria": "altres Óscar destacats",
+      "text": "Néstor Almendros: Días de Cielo (millor fotografia)",
+      "media": "e:/cronologia/fotos/nestor78.jpg"
+    },
+    {
+      "yearStart": 1960,
+      "yearEnd": null,
+      "categoria": "Sèries TV",
+      "text": "Perry Mason",
+      "media": "e:/cronologia/fotos/perry.jpg"
+    },
+    {
+      "yearStart": 1961,
+      "yearEnd": null,
+      "categoria": "Sèries TV",
+      "text": "Dimensión desconocida / Mi amiga Flicka",
+      "media": "e:/cronologia/fotos/flicka.jpg"
+    },
+    {
+      "yearStart": 1962,
+      "yearEnd": null,
+      "categoria": "Sèries TV",
+      "text": "Sugarfoot / Mister Ed / Bonanza / Guillermo Tell",
+      "media": "e:cronologia/fotos/bonanza.jpg"
+    },
+    {
+      "yearStart": 1963,
+      "yearEnd": null,
+      "categoria": "Sèries TV",
+      "text": "Bronco / El llanero solitario / Ella, él y Asta / Caravana / Rompeolas (Surfside 6)",
+      "media": "e:/cronologia/fotos/63/asta.jpg"
+    },
+    {
+      "yearStart": 1964,
+      "yearEnd": null,
+      "categoria": "Sèries TV",
+      "text": "Barbara Stanwyck / Cheyenne / El capitán Marte y el XL5 / Dick van Dyke / El vagabundo de las islas / El Virginiano / La marina de McHale / Los Intocables / Los Picapiedra  / Oso Yogi / Paty Duke / Bugs Bunny",
+      "media": "e:/cronologia/fotos/64/bunny.jpg"
+    },
+    {
+      "yearStart": 1964,
+      "yearEnd": null,
+      "categoria": "Premi Nobel",
+      "text": "Martin Luther King, Pau",
+      "media": "e:/cronologia/fotos/king.jpg"
+    },
+    {
+      "yearStart": 1971,
+      "yearEnd": null,
+      "categoria": "Premi Nobel",
+      "text": "Willy Brandt, Pau",
+      "media": "e:/cronologia/fotos/brandt_.jpg"
+    },
+    {
+      "yearStart": 1973,
+      "yearEnd": null,
+      "categoria": "Premi Nobel",
+      "text": "Henry Kissinger / Lê Dúc Tho, Pau // Konrad Lorenz / Nikolaas Tinbergen / Karl von Frisch, Medicina o Fisiologia",
+      "media": "e:/cronologia/fotos/nobel73_.jpg"
+    },
+    {
+      "yearStart": 1978,
+      "yearEnd": null,
+      "categoria": "Premi Nobel",
+      "text": "Mohamed Anwar Al-Sadat / Menachem Begin, Pau",
+      "media": "e:/cronologia/fotos/nobel78.jpg"
+    },
+    {
+      "yearStart": 1979,
+      "yearEnd": null,
+      "categoria": "Premi Nobel",
+      "text": "Teresa de Calcuta, Pau",
+      "media": "e:/cronologia/fotos/teresa.jpg"
+    },
+    {
+      "yearStart": 1980,
+      "yearEnd": null,
+      "categoria": "Premi Nobel",
+      "text": "Adolfo Pérez Esquivel, Pau",
+      "media": "e:/cronologia/fotos/esquivel.jpg"
+    },
+    {
+      "yearStart": 1983,
+      "yearEnd": null,
+      "categoria": "Premi Nobel",
+      "text": "Lech Walesa, Pau",
+      "media": "e:/cronologia/fotos/walesa_.jpg"
+    },
+    {
+      "yearStart": 1984,
+      "yearEnd": null,
+      "categoria": "Premi Nobel",
+      "text": "Desmond MpiloTutu, Pau",
+      "media": "e:/cronologia/fotos/tutu.jpg"
+    },
+    {
+      "yearStart": 1989,
+      "yearEnd": null,
+      "categoria": "Premi Nobel",
+      "text": "dalái lama Tenzin Gyatso, Pau",
+      "media": "e:/cronologia/fotos/dalai.jpg"
+    },
+    {
+      "yearStart": 1990,
+      "yearEnd": null,
+      "categoria": "Premi Nobel",
+      "text": "Mijail Gorbachov, Pau",
+      "media": "e:/cronologia/fotos/gorbachov_.jpg"
+    },
+    {
+      "yearStart": 1992,
+      "yearEnd": null,
+      "categoria": "Premi Nobel",
+      "text": "Rigoberta Menchú Tum, Pau",
+      "media": "e:/cronologia/fotos/menchu.jpg"
+    },
+    {
+      "yearStart": 1993,
+      "yearEnd": null,
+      "categoria": "Premi Nobel",
+      "text": "Nelson Mandela / Frederik de Klerk , Pau",
+      "media": "e:/cronologia/fotos/nobel93.jpg"
+    },
+    {
+      "yearStart": 1994,
+      "yearEnd": null,
+      "categoria": "Premi Nobel",
+      "text": "Yasir Arafat / Isaac Rabin / Shimon Peres, Pau",
+      "media": "e:/cronologia/fotos/nobel94.jpg"
+    },
+    {
+      "yearStart": 1999,
+      "yearEnd": null,
+      "categoria": "Premi Nobel",
+      "text": "Médicos Sin Fronteras, Pau",
+      "media": "e:/cronologia/fotos/msf.jpg"
+    },
+    {
+      "yearStart": 2000,
+      "yearEnd": null,
+      "categoria": "Premi Nobel",
+      "text": "Kim Dae Jung, Pau",
+      "media": "e:/cronologia/fotos/kim.jpg"
+    },
+    {
+      "yearStart": 2001,
+      "yearEnd": null,
+      "categoria": "Premi Nobel",
+      "text": "ONU / Kofi Annan, Pau",
+      "media": "e:/cronologia/fotos/nobel01.jpg"
+    },
+    {
+      "yearStart": 2002,
+      "yearEnd": null,
+      "categoria": "Premi Nobel",
+      "text": "Jimmy Carter, Pau",
+      "media": "e:/cronologia/fotos/carter_.jpg"
+    },
+    {
+      "yearStart": 2007,
+      "yearEnd": null,
+      "categoria": "Premi Nobel",
+      "text": "Al Gore / IPCC, Pau",
+      "media": "e:/cronologia/fotos/nobel07.jpg"
+    },
+    {
+      "yearStart": 2009,
+      "yearEnd": null,
+      "categoria": "Premi Nobel",
+      "text": "Barack Obama, Pau",
+      "media": "e:/cronologia/fotos/obama_.jpg"
+    },
+    {
+      "yearStart": 2012,
+      "yearEnd": null,
+      "categoria": "Premi Nobel",
+      "text": "Unión Europea, Pau",
+      "media": "e:/cronologia/fotos/ue.jpg"
+    },
+    {
+      "yearStart": 2005,
+      "yearEnd": null,
+      "categoria": "Premi Nobel",
+      "text": "Organismo Internacional de Energía Atómica / Mohamed el-Baradei, Pau",
+      "media": "e:/cronologia/fotos/baradei.jpg"
+    },
+    {
+      "yearStart": 2016,
+      "yearEnd": null,
+      "categoria": "Premi Nobel",
+      "text": "Juan Manuel Santos, Pau",
+      "media": "e:/cronologia/fotos/santos.jpg"
+    },
+    {
+      "yearStart": 2025,
+      "yearEnd": null,
+      "categoria": "Premi Nobel",
+      "text": "Maria Corina Machado, Pau",
+      "media": "e:/cronologia/fotos/mcmachado.jpg"
+    },
+    {
+      "yearStart": 1965,
+      "yearEnd": null,
+      "categoria": "Sèries TV",
+      "text": "El Fugitivo / El Santo / El show de Lucy / Embrujada / Intriga en Hawaii / La familia Munster / Los nuevos ricos / Supercar / Viaje al fondo del mar",
+      "media": "e:cronologia/fotos/65/embrujada.jpg"
+    },
+    {
+      "yearStart": 1966,
+      "yearEnd": null,
+      "categoria": "Sèries TV",
+      "text": "Daniel Boone / El túnel del tiempo / Guardianes del espacio (Thunderbirds) / La isla de Gilligan / Rumbo a lo desconocido / Super Agente 86",
+      "media": "e:/cronologia/fotos/66/daniel.jpg"
+    },
+    {
+      "yearStart": 1967,
+      "yearEnd": null,
+      "categoria": "Sèries TV",
+      "text": "77 Sunset Strip / El agente de CIPOL / Los vengadores / Misión imposible / Perdidos en el espacio",
+      "media": ""
+    },
+    {
+      "yearStart": 1968,
+      "yearEnd": null,
+      "categoria": "Sèries TV",
+      "text": "Flipper / Ironside / Jim West / Los invasores / Mannix",
+      "media": ""
+    },
+    {
+      "yearStart": 1969,
+      "yearEnd": null,
+      "categoria": "Sèries TV",
+      "text": "La conquista del espacio (Star Trek)",
+      "media": ""
+    },
+    {
+      "yearStart": 1970,
+      "yearEnd": null,
+      "categoria": "Sèries TV",
+      "text": "Audacia es el juego / Centro médico",
+      "media": ""
+    },
+    {
+      "yearStart": 1971,
+      "yearEnd": null,
+      "categoria": "Sèries TV",
+      "text": "Hawaii 5.0 / Visto para sentencia",
+      "media": ""
+    },
+    {
+      "yearStart": 1972,
+      "yearEnd": null,
+      "categoria": "Sèries TV",
+      "text": "El comisario McMillan y su esposa",
+      "media": ""
+    },
+    {
+      "yearStart": 1973,
+      "yearEnd": null,
+      "categoria": "Sèries TV",
+      "text": "Cannon / Colombo / Kung Fu",
+      "media": ""
+    },
+    {
+      "yearStart": 1974,
+      "yearEnd": null,
+      "categoria": "Sèries TV",
+      "text": "Banacek / Las calles de San Francisco / McCloud / Pipi Calzaslargas",
+      "media": ""
+    },
+    {
+      "yearStart": 1975,
+      "yearEnd": null,
+      "categoria": "Sèries TV",
+      "text": "Kojak / La casa de la pradera",
+      "media": ""
+    },
+    {
+      "yearStart": 1976,
+      "yearEnd": null,
+      "categoria": "Sèries TV",
+      "text": "Los hombres de Harrelson / Sandokan",
+      "media": ""
+    },
+    {
+      "yearStart": 1977,
+      "yearEnd": null,
+      "categoria": "Sèries TV",
+      "text": "Hombre rico, hombre pobre / Starsky y Hutch",
+      "media": ""
+    },
+    {
+      "yearStart": 1978,
+      "yearEnd": null,
+      "categoria": "Sèries TV",
+      "text": "El aventurero Simplicissimus / Los Ángeles de Charlie / Un hombre en casa / Vacaciones en el mar / Yo, Claudio",
+      "media": ""
+    },
+    {
+      "yearStart": 1979,
+      "yearEnd": null,
+      "categoria": "Sèries TV",
+      "text": "Dallas / Érase una vez... el hombre / Raíces",
+      "media": ""
+    },
+    {
+      "yearStart": 1980,
+      "yearEnd": null,
+      "categoria": "Sèries TV",
+      "text": "Lou Grant",
+      "media": ""
+    },
+    {
+      "yearStart": 1982,
+      "yearEnd": null,
+      "categoria": "Sèries TV",
+      "text": "Dinastía",
+      "media": ""
+    },
+    {
+      "yearStart": 1983,
+      "yearEnd": null,
+      "categoria": "Sèries TV",
+      "text": "Fama / Hotel / M.A.S.H.",
+      "media": ""
+    },
+    {
+      "yearStart": 1985,
+      "yearEnd": null,
+      "categoria": "Sèries TV",
+      "text": "El coche fantástico / El equipo A / El pájaro espino / Falcon Crest / Magnum / V",
+      "media": ""
+    },
+    {
+      "yearStart": 1986,
+      "yearEnd": null,
+      "categoria": "Sèries TV",
+      "text": "Canción triste de Hill Street / Corrupción en Miami / Luz de Luna / Remington Steele",
+      "media": ""
+    },
+    {
+      "yearStart": 1987,
+      "yearEnd": null,
+      "categoria": "Sèries TV",
+      "text": "MacGyver",
+      "media": ""
+    },
+    {
+      "yearStart": 1989,
+      "yearEnd": null,
+      "categoria": "Sèries TV",
+      "text": "Cheers",
+      "media": ""
+    },
+    {
+      "yearStart": 1991,
+      "yearEnd": null,
+      "categoria": "Sèries TV",
+      "text": "Los Simpson / Los vigilantes de la playa",
+      "media": ""
+    },
+    {
+      "yearStart": 1956,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Lugano (Suïssa) - Lys Assia (Suïssa):  Refrain",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1957,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Frankfurt del Main (Alemanya Occidental) - Corry Broken (Països Baixos):  Net Als Toen",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1958,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Hilversum (Països Baixos) - André Claveau (França):  Dors Mon Amour",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1959,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Cannes (França) - Teddy Scholten (Països Baixos):  Een Beetje",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1960,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Londres (Regne Unit) - Jacqueline Boyer (França):  Tom Pillibi",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1961,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Cannes (França) - Jean-Claude Pascal (Luxemburg):  Nous Les Amoureux",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1962,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Luxemburg (Luxemburg) - Isabelle Aubret (França):  Un Premier Amour",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1963,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Londres (Regne Unit) - Grethe i Jørgen Ingmann (Dinamarca):  Dansevise",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1964,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Copenhaguen (Dinamarca ) - Gigliola Cinquetti (Itàlia):  Non ho l'età",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1965,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Nàpols (Itàlia) - France Gall (Luxemburg):  Poupée de cire, poupée de son",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1966,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Luxemburg (Luxemburg) - Udo Jürgens (Àustria):  Merci Chérie",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1967,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Viena (Àustria) - Sandie Shaw (Regne Unit):  Puppet on a String",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1968,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Londres (Regne Unit) - Massiel (Espanya):  La, La La",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1969,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Madrid (Espanya) - Salomé (Espanya):  Vivo Cantando",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1970,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Amsterdam (Països Baixos) - Dana (Irlanda):  All Kinds of Everything",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1971,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Dublín (Irlanda) - Séverine (Mónaco):  Un banc, un arbre, une rue",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1972,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Edimburg (Regne Unit) - Vicky Leandros (Luxemburg):  Aprés toi",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1973,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Luxemburg (Luxemburg) - Anne-Marie David (Luxemburg):  Tu te reconnaîtras",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1974,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Brighton (Regne Unit) - ABBA (Suècia):  Waterloo",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1975,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Estocolm (Suècia) - Teach-in (Països Baixos):  Ding-a-dong",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1976,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "La Haia (Països Baixos) - Brotherhood of Man (Regne Unit):  Save your Kisses for Me",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1977,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Londres (Regne Unit) - Marie Myriam (França):  L'oiseau et l'enfant",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1978,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "París (França) - Izhar Cohen i Alphabeta (Israel):  A-ba-ni-bi",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1979,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Jerusalem (Israel) - Gali Atari i Milk & Honey (Israel):  Hallelujah",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1980,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "La Haia (Països Baixos) - Johnny Logan (Irlanda):  What's Another Year?",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1981,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Dublín (Irlanda) - Bucks Fizz (Regne Unit):  Making Your Mind Up",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1982,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Harrogate (Regne Unit) - Nicole (Alemania):  Ein Bißchen Frieden",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1983,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Múnic (Alemanya Occidental) - Corinne Hermès (Luxemburg):  Si la vie est cadeau",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1984,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Luxemburg (Luxemburg) - Herreys (Suècia):  Diggi-Loo Diggi-Ley",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1985,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Göteborg (Suècia) - Bobbysocks (Noruega):  La det Swinge",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1986,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Bergen (Noruega) - Sandra Kin (Bèlgica):  J'aime la vie",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1987,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Brussel·les (Bèlgica) - Johnny Logan (Irlanda):  Hold Me Now",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1988,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Dublín (Irlanda) - Céline Dion (Suïssa):  Ne partez pas sans moi",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1989,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Lausana (Suïssa) - Riva (Iugoslàvia):  Rock Me",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1990,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Zagreb (Iugoslàvia) - Toto Cotugno (Itàlia):  Insieme: 1992",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1991,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Roma (Itàlia) - Carola (Suècia):  Fångad av en Stormvind",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1992,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Malmö (Suècia) - Linda Martin (Irlanda):  Why me?",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1993,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Millstreet (Irlanda) - Niamh Kavanagh (Irlanda):  In Your Eyes",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1994,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Dublín (Irlanda) - Paul Harrington i Charlie McGettigan (Irlanda):  Rock 'n' Roll Kids",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1995,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Dublín (Irlanda) - Secret Garden (Noruega):  Nocturne",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1996,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Oslo (Noruega) - Eimear Quinn (Irlanda):  The Voice",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1997,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Dublín (Irlanda) - Katrina & The Waves (Regne Unit):  Love Shinea Light",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1998,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Birmingham (Regne Unit) - Dana International (Israel):  Diva",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1999,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Jerusalem (Israel) - Charlotte Nilsson (Suècia):  Take Me To Your Heaven",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 2000,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Estocolm (Suècia) - Olsen Brothers (Dinamarca):  Fly on the Wings of Love",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 2001,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Copenhaguen (Dinamarca ) - Tanel Padar, Dave Benton i 2XL (Estònia):  Everybody",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 2002,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Tallinn (Estònia) - Marie N (Letònia):  I Wanna",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 2003,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Riga (Letònia) - Sertab Erener (Turquia):  Everyway That I Can",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 2004,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Istanbul (Turquia) - Ruslana (Ucraïna):  Wild Dances",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 2005,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Kiev (Ucraïna) - Helena Paparizou (Grècia):  My Number One",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 2006,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Atenes (Grècia) - Lordi (Finlàndia):  Hard Rock Hallelujah",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 2007,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Hèlsinki (Finlàndia) - Marija Šerifović (Sèrbia):  Molitva",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 2008,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Belgrad (Sèrbia) - Dima Bilan (Rússia):  Believe",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 2009,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Moscou (Rússia) - AlexanderRyback (Noruega):  Fairytale",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 2010,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Oslo (Noruega) - Lena (Alemanya):  Satellite",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 2011,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Düsseldorf (Alemanya) - Ell & Nikki (Azerbaidjan):  Running Scared",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 2012,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Bakú (Azerbaidjan) - Loreen (Suècia):  Euphoria",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 2013,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Malmö (Suècia) - Emmelie de Forest (Dinamarca):  Only teardrops",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 2014,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Copenhaguen (Dinamarca ) - Conchita Wurst (Àustria):  Rise Like a Phoenix",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 2015,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Viena (Àustria) - Måns Zelmerlöw (Suècia):  Heroes",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 2016,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Estocolm (Suècia) - Jamala (Ucraïna):  1944",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 2017,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Kiev (Ucraïna) - Salvador Sobral (Portugal):  Amar pelos dois",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 2018,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Lisboa (Portugal) - Netta (Israel):  Toy",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 2019,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Tel-Aviv (Israel) - Duncan Laurence (Països Baixos):  Arcade",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 2021,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Rotterdam (Països Baixos) - Måneskin (Itàlia):  Zitti e buoni",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 2022,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Torí (Itàlia) - Kalush Orchestra (Ucraïna):  Stefania",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 2023,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Liverpool (Regne Unit) - Loreen (Suècia):  Tattoo",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 2024,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Malmö (Suècia) - Nemo Mettler (Suïssa):  The Code",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 2025,
+      "yearEnd": null,
+      "categoria": "Festival Eurovisión",
+      "text": "Basilea (Suïssa) - JJ (Àustria):  Wasted Love",
+      "media": "e:/cronologia/fotos/logo.jpg"
+    },
+    {
+      "yearStart": 1967,
+      "yearEnd": null,
+      "categoria": "Vida personal",
+      "text": "2/11 amb la Capella Oratoriana a 'La Bohème' al Teatre Líric",
+      "media": "e:/cronologia/fotos/líric_.jpg"
+    },
+    {
+      "yearStart": 1987,
+      "yearEnd": null,
+      "categoria": "vehicles",
+      "text": "26/11 Renault 4L PM7002AP (sogre)",
+      "media": ""
+    },
+    {
+      "yearStart": 2017,
+      "yearEnd": null,
+      "categoria": "vehicles",
+      "text": "5/1 Renault 4L PM7002AP (Rosa)",
+      "media": ""
+    },
+    {
+      "yearStart": 2025,
+      "yearEnd": null,
+      "categoria": "vehicles",
+      "text": "Renault 4L reparació xapa",
+      "media": "E:/Vivo 2109 Tià/IMG_20250919_114929.jpg"
+    },
+    {
+      "yearStart": 1967,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "inauguració Edifici GESA (Josep Ferragut Pou) / 8/3 inauguració Poble Espanyol / 20/3 inauguració cinemes Jaume III / 30/5 inauguració hotel Es Molí a Deià / 3/11 inauguració del polígon industrial ASIMA / 21/10  demolició del Teatre Líric",
+      "media": "E:/cronologia/fotos/líric.jpg"
+    },
+    {
+      "yearStart": 1956,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "7/6 inauguració Son Dureta (en servei fins al 2011)",
+      "media": "e:/cronologia/fotos/dureta.jpg"
+    },
+    {
+      "yearStart": 1970,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "29/3 inauguració Sala Mozart / 27/5 inauguració dels Jardins de s'Hort del Rei / 29/5 s'inaugura el pas a nivell del carrer Balmes/ 30/10 s'inaugura el complex de Son Hugo / comencen les obres de la segona pista de l'aeroport / 7/11 arriba a Palma el Portaavions John F. Kennedy",
+      "media": "e:/cronologia/fotos/hort_rei.jpg"
+    },
+    {
+      "yearStart": 1984,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "inauguració del Parc de la Mar",
+      "media": ""
+    },
+    {
+      "yearStart": 1997,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "inauguració nova terminal aeroport // 19/2 inauguració túnel de Sóller // 28/4 inauguració Hospital Manacor",
+      "media": "e:/cronologia/fotos/tunel.jpg"
+    },
+    {
+      "yearStart": 2007,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "26/2 inauguració Hospital d'Inca // 28/2 inauguració Palma Arena // 1/3 inauguració Intermodal // 7/4 inauguració Parc de l'Estació // comencen les obres de Son Espases",
+      "media": ""
+    },
+    {
+      "yearStart": 1976,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "inauguració autopista Inca Ma-13",
+      "media": ""
+    },
+    {
+      "yearStart": 2001,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "15/12 inauguració de Son Llàtzer",
+      "media": ""
+    },
+    {
+      "yearStart": 2010,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "octubre inauguració Son Espases",
+      "media": ""
+    },
+    {
+      "yearStart": 1958,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "voladura del cim del Puig Major",
+      "media": "e:/cronologia/fotos/major.jpg"
+    },
+    {
+      "yearStart": 2000,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "28/7 voladura de l'hotel Monnàber",
+      "media": ""
+    },
+    {
+      "yearStart": 1990,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "inauguració de la Via de Cintura Ma-20",
+      "media": ""
+    },
+    {
+      "yearStart": 1954,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "ampliació pista Son Sant Joan",
+      "media": "e:/cronologia/fotos/avió.jpg"
+    },
+    {
+      "yearStart": 1972,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "17/4 inauguració del Gorg Blau i Cúber / 30/5 aprovat el Pla Ribas Piera. Inaugurat el Club de Mar / 8/7 s'inaugura la terminal xàrter de Son Sant Joan / 18/7 s'instal·la un cable marítim per dur energia entre Eivissa i Formentera",
+      "media": "e:/cronologia/fotos/cuber.jpg"
+    },
+    {
+      "yearStart": 1964,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "21/6 cau a la mar a Cala Gamba un avió que anava a Eivissa amb el resultat d'una passatgera morta",
+      "media": "e:/cronologia/fotos/cala gamba.jpg"
+    },
+    {
+      "yearStart": 1972,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "7/1 un Caravelle d'Iberia, que realitzava el vol regular IB-602 entre València i Eivissa s'estrella a s'Atalaiassa amb el resultat de 104 morts / 1/5 arriba a Palma el Queen Elizabeth II / el Foment de Turisme declara Mallorca zona de saturació hotelera / 9/5 premi a la natalitat a un matrimoni que han tingut 17 fills / 31/10 xoc entre el tren de Sóller i un camió carregat de pedres / 1/11 es presenta a Palma el Renault 5 / 4/11 Alexander Calder regala l'escultura Nancy a Palma",
+      "media": "e:/cronologia/fotos/vol602.jpg"
+    },
+    {
+      "yearStart": 2021,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "17/5 inaugurat el tram Llucmajor-Campos de la Ma-19",
+      "media": ""
+    },
+    {
+      "yearStart": 1969,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "2/5 inauguració Auto-Safari Porto Cristo / 3/9 inauguració de l'Auditòrium / inaugurada la primera autopista de Mallorca, la Ma-19 fins a l'aeroport",
+      "media": ""
+    },
+    {
+      "yearStart": 2025,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "18/3 comencen a esbucar l'edifici central de Son Dureta",
+      "media": "e:/cronologia/fotos/dureta_.jpg"
+    },
+    {
+      "yearStart": 2006,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "comencen les obres de soterrament de l'estació",
+      "media": "e:/cronologia/fotos/sfm.jpg"
+    },
+    {
+      "yearStart": 1995,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "20/9 inauguració El Corte Inglés Avingudes",
+      "media": ""
+    },
+    {
+      "yearStart": 1994,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "gener comencen les obres de El Corte Inglés Avingudes",
+      "media": "e:/cronologia/fotos/corte.jpg"
+    },
+    {
+      "yearStart": 1996,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "comencen les obres de l'Hospital de Son Llàtzer",
+      "media": ""
+    },
+    {
+      "yearStart": 1983,
+      "yearEnd": 1987,
+      "categoria": "presidents Parlament Illes Balears",
+      "text": "Antoni Cirerol Thomàs",
+      "media": "e:/cronologia/fotos/cirerol.jpg"
+    },
+    {
+      "yearStart": 1987,
+      "yearEnd": 1991,
+      "categoria": "presidents Parlament Illes Balears",
+      "text": "Jeroni Alberti Picornell UM",
+      "media": "e:/cronologia/fotos/alberti_.jpg"
+    },
+    {
+      "yearStart": 1991,
+      "yearEnd": 1995,
+      "categoria": "presidents Parlament Illes Balears",
+      "text": "Cristòfol Soler Cladera PP",
+      "media": "e:/cronologia/fotos/soler_.jpg"
+    },
+    {
+      "yearStart": 1995,
+      "yearEnd": 1999,
+      "categoria": "presidents Parlament Illes Balears",
+      "text": "Joan Huguet Rotger PP",
+      "media": "e:/cronologia/fotos/huguet.jpg"
+    },
+    {
+      "yearStart": 1999,
+      "yearEnd": 2003,
+      "categoria": "presidents Parlament Illes Balears",
+      "text": "Antoni Josep Diéguez Seguí (1999) PSOE / Maximilià Morales Gómez (1999-2003) UM",
+      "media": "e:/cronologia/fotos/morales.jpg"
+    },
+    {
+      "yearStart": 2003,
+      "yearEnd": 2007,
+      "categoria": "presidents Parlament Illes Balears",
+      "text": "Pere Rotger Llabrés PP",
+      "media": "e:/cronologia/fotos/rotger.jpg"
+    },
+    {
+      "yearStart": 2007,
+      "yearEnd": 2010,
+      "categoria": "presidents Parlament Illes Balears",
+      "text": "Maria Antònia Munar Riutort UM",
+      "media": "e:/cronologia/fotos/munar.jpg"
+    },
+    {
+      "yearStart": 2010,
+      "yearEnd": 2011,
+      "categoria": "presidents Parlament Illes Balears",
+      "text": "Aina Rado Ferrando PSOE",
+      "media": "e:/cronologia/fotos/rado.jpg"
+    },
+    {
+      "yearStart": 2011,
+      "yearEnd": 2012,
+      "categoria": "presidents Parlament Illes Balears",
+      "text": "Pere Rotger Llabrés PP",
+      "media": "e:/cronologia/fotos/rotger_.jpg"
+    },
+    {
+      "yearStart": 2012,
+      "yearEnd": 2015,
+      "categoria": "presidents Parlament Illes Balears",
+      "text": "Margalida Duran Cladera PP",
+      "media": "e:/cronologia/fotos/duran.jpg"
+    },
+    {
+      "yearStart": 2015,
+      "yearEnd": 2017,
+      "categoria": "presidents Parlament Illes Balears",
+      "text": "Maria Consuelo Huertas Calatayud PODEM",
+      "media": "e:/cronologia/fotos/xelo huertas.jpg"
+    },
+    {
+      "yearStart": 2017,
+      "yearEnd": 2019,
+      "categoria": "presidents Parlament Illes Balears",
+      "text": "Baltasar Picornell Lladó PODEM",
+      "media": "e:/cronologia/fotos/picornell.jpg"
+    },
+    {
+      "yearStart": 2019,
+      "yearEnd": 2023,
+      "categoria": "presidents Parlament Illes Balears",
+      "text": "Vicenç Thomàs Mulet PSOE",
+      "media": "e:/cronologia/fotos/thomas mulet.jpg"
+    },
+    {
+      "yearStart": 2023,
+      "yearEnd": 2023,
+      "categoria": "presidents Parlament Illes Balears",
+      "text": "Gabriel Le Senne Presedo Vox",
+      "media": "e:/cronologia/fotos/senne.jpg"
+    },
+    {
+      "yearStart": 1977,
+      "yearEnd": 1982,
+      "categoria": "presidents Govern Balear",
+      "text": "Jeroni Alberti Picornell (CGI) UCD",
+      "media": "e:/cronologia/fotos/alberti.jpg"
+    },
+    {
+      "yearStart": 1982,
+      "yearEnd": 1983,
+      "categoria": "presidents Govern Balear",
+      "text": "Francesc Tutzó Bennàssar (CGI) UCD",
+      "media": "e:/cronologia/fotos/tutzo.jpg"
+    },
+    {
+      "yearStart": 1983,
+      "yearEnd": 1995,
+      "categoria": "presidents Govern Balear",
+      "text": "Gabriel Cañellas Fons CP",
+      "media": "e:/cronologia/fotos/cañellas.jpg"
+    },
+    {
+      "yearStart": 1995,
+      "yearEnd": 1996,
+      "categoria": "presidents Govern Balear",
+      "text": "Cristòfol Soler Cladera AP",
+      "media": "e:/cronologia/fotos/soler.jpg"
+    },
+    {
+      "yearStart": 1996,
+      "yearEnd": 1999,
+      "categoria": "presidents Govern Balear",
+      "text": "Jaume Matas Palou PP",
+      "media": "e:/cronologia/fotos/matas_.jpg"
+    },
+    {
+      "yearStart": 1999,
+      "yearEnd": 2003,
+      "categoria": "presidents Govern Balear",
+      "text": "Francesc Antich Oliver PSOE",
+      "media": "e:/cronologia/fotos/antich_.jpg"
+    },
+    {
+      "yearStart": 2003,
+      "yearEnd": 2007,
+      "categoria": "presidents Govern Balear",
+      "text": "Jaume Matas Palou PP",
+      "media": "e:/cronologia/fotos/matas.jpg"
+    },
+    {
+      "yearStart": 2007,
+      "yearEnd": 2011,
+      "categoria": "presidents Govern Balear",
+      "text": "Francesc Antich Oliver PSOE",
+      "media": "e:/cronologia/fotos/antich.jpg"
+    },
+    {
+      "yearStart": 2011,
+      "yearEnd": 2015,
+      "categoria": "presidents Govern Balear",
+      "text": "José Ramón Bauzá Díaz PP",
+      "media": "e:/cronologia/fotos/bauzá.jpg"
+    },
+    {
+      "yearStart": 2015,
+      "yearEnd": 2023,
+      "categoria": "presidents Govern Balear",
+      "text": "Francina Armengol Socías PSOE",
+      "media": "e:/cronologia/fotos/armengol.jpg"
+    },
+    {
+      "yearStart": 2023,
+      "yearEnd": 2023,
+      "categoria": "presidents Govern Balear",
+      "text": "Marga Prohens Rigo PP",
+      "media": "e:/cronologia/fotos/prohens.jpg"
+    },
+    {
+      "yearStart": 1979,
+      "yearEnd": 1982,
+      "categoria": "presidents CIM",
+      "text": "Jeroni Albertí Picornell UCD",
+      "media": "e:/cronologia/fotos/alberti_1.jpg"
+    },
+    {
+      "yearStart": 1982,
+      "yearEnd": 1983,
+      "categoria": "presidents CIM",
+      "text": "Maximilià Morales Gómez UCD",
+      "media": "e:/cronologia/fotos/cim.jpg"
+    },
+    {
+      "yearStart": 1983,
+      "yearEnd": 1987,
+      "categoria": "presidents CIM",
+      "text": "Jeroni Albertí Picornell UM",
+      "media": "e:/cronologia/fotos/alberti_um.jpg"
+    },
+    {
+      "yearStart": 1987,
+      "yearEnd": 1995,
+      "categoria": "presidents CIM",
+      "text": "Joan Verger Pocoví PP",
+      "media": "e:/cronologia/fotos/cim.jpg"
+    },
+    {
+      "yearStart": 1995,
+      "yearEnd": 2007,
+      "categoria": "presidents CIM",
+      "text": "Maria Antònia Munar Riutort UM",
+      "media": "e:/cronologia/fotos/cim.jpg"
+    },
+    {
+      "yearStart": 2007,
+      "yearEnd": 2011,
+      "categoria": "presidents CIM",
+      "text": "Francina Armengol Socías PSIB",
+      "media": "e:/cronologia/fotos/cim.jpg"
+    },
+    {
+      "yearStart": 2011,
+      "yearEnd": 2015,
+      "categoria": "presidents CIM",
+      "text": "Maria Salom Coll PP",
+      "media": "e:/cronologia/fotos/cim.jpg"
+    },
+    {
+      "yearStart": 2014,
+      "yearEnd": 2019,
+      "categoria": "presidents CIM",
+      "text": "Miquel Ensenyat Riutort MÉS",
+      "media": "e:/cronologia/fotos/cim.jpg"
+    },
+    {
+      "yearStart": 2019,
+      "yearEnd": 2023,
+      "categoria": "presidents CIM",
+      "text": "Catalina Cladera Crespí PSIB",
+      "media": "e:/cronologia/fotos/cim.jpg"
+    },
+    {
+      "yearStart": 2023,
+      "yearEnd": 2023,
+      "categoria": "presidents CIM",
+      "text": "Llorenç Galmés Verger PP",
+      "media": "e:/cronologia/fotos/cim.jpg"
+    },
+    {
+      "yearStart": 1997,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "juliol, cas Túnel de Sóller. Fets provats però absolts per prescripció del delicte",
+      "media": ""
+    },
+    {
+      "yearStart": 1968,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "2/1 finalitza el servei ferroviari Palma-Felanitx / 19/1 s'inaugura la pista de patins a la plaça Berenguer de Palou / 18/6 inauguració central tèrmica Sant Joan de Déu / 19/6 inauguració de la Fundació Dragan  / s'inaugura La Porciúncula (Josep Ferragut Pou) / reforma de la plaça del Rosselló: el Teatre Balear perd la façana modernista",
+      "media": "e:/cronologia/fotos/teatre_balear.jpg"
+    },
+    {
+      "yearStart": 1968,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "21/2 mor assassinat l'arquitecte Josep Ferragut Pou / 3/3 I Trofeu Princesa Sofia / 2/4 Iberia inaugura la línia Palma-Nova York / 1/6 I Festival de la Cançó de Balears",
+      "media": "e:/cronologia/fotos/ferragut_pou.jpg"
+    },
+    {
+      "yearStart": 2017,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "3/4 inauguració Palau de Congressos (Francisco Mangado)",
+      "media": ""
+    },
+    {
+      "yearStart": 1977,
+      "yearEnd": 1979,
+      "categoria": "presidents Congrés Diputats",
+      "text": "Fernando Álvarez de Miranda Torres UCD",
+      "media": "e:/cronologia/fotos/congrés.jpg"
+    },
+    {
+      "yearStart": 1979,
+      "yearEnd": 1982,
+      "categoria": "presidents Congrés Diputats",
+      "text": "Landelono Lavilla Alsina UCD",
+      "media": "e:/cronologia/fotos/congrés.jpg"
+    },
+    {
+      "yearStart": 1982,
+      "yearEnd": 1986,
+      "categoria": "presidents Congrés Diputats",
+      "text": "Gregorio Peces-Barba Martínez PSOE",
+      "media": "e:/cronologia/fotos/congrés.jpg"
+    },
+    {
+      "yearStart": 1986,
+      "yearEnd": 1996,
+      "categoria": "presidents Congrés Diputats",
+      "text": "Félix Pons Irazazábal PSOE",
+      "media": "e:/cronologia/fotos/congrés.jpg"
+    },
+    {
+      "yearStart": 1996,
+      "yearEnd": 2000,
+      "categoria": "presidents Congrés Diputats",
+      "text": "Federico Trillo-Figueroa Martínez-Conde PP",
+      "media": "e:/cronologia/fotos/congrés.jpg"
+    },
+    {
+      "yearStart": 2000,
+      "yearEnd": 2004,
+      "categoria": "presidents Congrés Diputats",
+      "text": "Luisa Fernanda Rudi Úbeda PP",
+      "media": "e:/cronologia/fotos/congrés.jpg"
+    },
+    {
+      "yearStart": 2004,
+      "yearEnd": 2008,
+      "categoria": "presidents Congrés Diputats",
+      "text": "Manuel Marín González PSOE",
+      "media": "e:/cronologia/fotos/congrés.jpg"
+    },
+    {
+      "yearStart": 2008,
+      "yearEnd": 2011,
+      "categoria": "presidents Congrés Diputats",
+      "text": "José Bono Martínez PSOE",
+      "media": "e:/cronologia/fotos/congrés.jpg"
+    },
+    {
+      "yearStart": 2011,
+      "yearEnd": 2016,
+      "categoria": "presidents Congrés Diputats",
+      "text": "Jesús María Posada Moreno PP",
+      "media": "e:/cronologia/fotos/congrés.jpg"
+    },
+    {
+      "yearStart": 2016,
+      "yearEnd": 2019,
+      "categoria": "presidents Congrés Diputats",
+      "text": "Patxi López Álvarez PSOE (2016)  /  Ana María Pastor Julián PP (2016-2019)",
+      "media": "e:/cronologia/fotos/congrés.jpg"
+    },
+    {
+      "yearStart": 2019,
+      "yearEnd": 2023,
+      "categoria": "presidents Congrés Diputats",
+      "text": "Meritxell Batet Lamaña PSC",
+      "media": "e:/cronologia/fotos/congrés.jpg"
+    },
+    {
+      "yearStart": 2023,
+      "yearEnd": 2023,
+      "categoria": "presidents Congrés Diputats",
+      "text": "Francina Armengol Socías PSOE",
+      "media": "e:/cronologia/fotos/congrés.jpg"
+    },
+    {
+      "yearStart": 1955,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "12/2 inauguració hotel Bahía Palace / 19/6 inauguració Club Nàutic Formentor",
+      "media": "e:/cronologia/fotos/bahia.jpg"
+    },
+    {
+      "yearStart": 1957,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "20/4 BEA inaugura la línia Palma-Manchester",
+      "media": ""
+    },
+    {
+      "yearStart": 1957,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "9/7 inaugurat el segon tram del passeig Marítim de Palma / 14/12 inauguració del centre de control aeri / 23/12 la central d'Alcúdia comença a subministrar electricitat",
+      "media": "e:/cronologia/fotos/central.jpg"
+    },
+    {
+      "yearStart": 1958,
+      "yearEnd": null,
+      "categoria": "papàs",
+      "text": "26/4 conferència Hispano-Portuguesa organitzada per Wagons-Lits Cook",
+      "media": ""
+    },
+    {
+      "yearStart": 1959,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "5/4 SAS inaugura la línia Palma-Copenhaguen / 7/6 Aviaco inaugura la línia Palma-Brussel·les /  19/7 s'inaugura a Petra el museu Juníper Serra / 11/9 aterra a Son Bonet un Caravelle / 7/12 inauguració de Ràdio Popular",
+      "media": "e:/cronologia/fotos/caravelle.jpg"
+    },
+    {
+      "yearStart": 1960,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "15/1 reobertura del Teatre Principal després de la reforma / 7/5 inauguració Estadi Balear / 10/5 inauguració central Alcúdia",
+      "media": "e:/cronologia/fotos/franco_1.jpg"
+    },
+    {
+      "yearStart": 1961,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "23/6 inauguració hotel Son Vida / 23/7 inauguració carretera Lluc-Sóller, Dic de l'Oest i estació marítima de Palma",
+      "media": "e:/cronologia/fotos/sonvida.jpg"
+    },
+    {
+      "yearStart": 1956,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "4/2 Any de la neu",
+      "media": "e:/cronologia/fotos/nevada.jpg"
+    },
+    {
+      "yearStart": 1962,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "13/2 ventada a Palma, milers de pins destrossats a Bellver / 9/11 arriba el turista 1 milió / 3/12 estrena a la Sala Astoria de 'Bahía de Palma' / 21/12 constitució de l'Obra Cultural Balear",
+      "media": "e:/cronologia/fotos/elke.jpg"
+    },
+    {
+      "yearStart": 1963,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "1/1 aparició del Majorca Daily Bulletin / estació de televisió a Alfàbia",
+      "media": "e:/cronologia/fotos/serra.jpg"
+    },
+    {
+      "yearStart": 1963,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "urbanització a Alcúdia: Las Gaviotas i Lago Esperanza",
+      "media": "e:/cronologia/fotos/lagos.jpg"
+    },
+    {
+      "yearStart": 1964,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "8/2 comencen obres d'eixampla al port de Ciutadella / 17/3 inauguració sala Tagomago / 15/4 inauguració hotel Garonda / 23/7 comencen les obres del Poble Espanyol / 20/12 acaben les obres a l'aeroport d'Eivissa",
+      "media": "e:/cronologia/fotos/tagomago.jpg"
+    },
+    {
+      "yearStart": 1965,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "23/3 80.000 vehicles matriculats a Balears / 18/4 El Reial Mallorca puja a Primera Divisió",
+      "media": ""
+    },
+    {
+      "yearStart": 1965,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "16/5 inauguració hipòdrom Son Pardo / 17/5 obertura carretera Ferreries-Santa Galdana / 9/9 obres d'ampliació a Son Sant Joan",
+      "media": ""
+    },
+    {
+      "yearStart": 1966,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "17/2 sorgeixen les discoteques Sargent Peper's i Barbarela / 10/6 inauguració de la discoteca Zorbas / 9/8 inauguració hotel Punta Negra a la Costa d'en Blanes / 27/9 inaugurat el Museu Saridakis",
+      "media": "e:/cronologia/fotos/saridakis.jpg"
+    },
+    {
+      "yearStart": 1966,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "9/4 desapareix oficialment la censura / 12/5 s'expulsen d'Eivissa diversos 'Beatniks' / 28/7 el 'Juan March' de la Trasmediterránea fa la primera travessia Palma-Barcelona / 26/9 es fixa el salari mínim: 86 ptes/dia / 11/10 inundacions a Palma a causa d'una tempesta / 16/12 comencen a arribar 'hippies' a Formentera",
+      "media": "e:/cronologia/fotos/juan-march.jpg"
+    },
+    {
+      "yearStart": 1967,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "1/3 fondeja a Palma el Queen Elizabeth / 13/4 instal·lació de la primera cabina telefònica / 11/7 vol inaugural Madrid-Palma en 55 minuts / 18/10 inauguració monument Ramon Llull al passeig Sagrera",
+      "media": "e:/cronologia/fotos/queen_elizabeth.jpg"
+    },
+    {
+      "yearStart": 1969,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "7/9 arribada del turista 3 milions",
+      "media": ""
+    },
+    {
+      "yearStart": 1970,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "21/5 s'anuncia la revisió del PGOU de Palma / 22/6 s'obri la Biblioteca March / 11/8 alliberats dos joves perduts dos dies i mig a Sa Fosca / 2/9 arriben nins de l'operació 'Plus Ultra'",
+      "media": ""
+    },
+    {
+      "yearStart": 1971,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "3/5 aterra per primera vegada un Boeing 747 'Jumbo' / 1/10 inauguració de la llibreria Tous / 8/10 canvis a la matriculació de vehicles: PM-0000-A",
+      "media": ""
+    },
+    {
+      "yearStart": 1971,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "22/7 comença la instal·lació del cable telefònic entre Mallorca i la península. S'inaugura el 17/12",
+      "media": ""
+    },
+    {
+      "yearStart": 1973,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "13/1 inauguració del cine Lírico-Palace / 10/2 inauguració cine Arlequín / 17/2 comencen les obres del futur Parc de la Mar / 12/5 inauguració Club Esportiu Portals Nous / 5/6 inauguració de Mercapalma / 8/10 inaugurat el col·legi Santa Mònica / 2/11 comencen les obres del port esportiu Marina de Cala d'Or / 28/11 inauguració del Laboratori Oceanogràfic. Inauguració del Poliesportiu Prínceps d'Espanya",
+      "media": ""
+    },
+    {
+      "yearStart": 1974,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "7/1 comencen les obres de l'autopista Palma-Palma Nova / 24/1 comencen les obres de Son Moix / 2/3 s'inaugura el clavegueram al Port de Ciutadella / 23/3 s'aprova el Pla d'Ordenació Urbana de Maó / 6/4 inauguració del cine Versalles / 27/4 s'inaugura la seu central del Banc de Crèdit Balear / 19/5 inauguració del Club de Tennis Manacor",
+      "media": ""
+    },
+    {
+      "yearStart": 1959,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "19/7 s'inaugura a Petra el Museu Juníper Serra",
+      "media": ""
+    },
+    {
+      "yearStart": 1962,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "18/4 inauguració de l'Institut Laboral de Ciutadella / 28/6 inauguració de les instal·lacions Mallorca Tennis Club",
+      "media": ""
+    },
+    {
+      "yearStart": 1974,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "31/3 inundacions a Sóller / 4/8 trobada arqueològica a Formentera (dolmen de Ca Na Costa) / 17/10 inundacions a Palma i s'Arenal / 18/10 inauguració servei automàtic de telefonia / 16/11 el Juan March xoca amb el pantalà a Eivissa",
+      "media": "e:/cronologia/fotos/canacosta.jpg"
+    },
+    {
+      "yearStart": 1975,
+      "yearEnd": null,
+      "categoria": "infrastructures de Mallorca",
+      "text": "9/1 enderrocament de la Casa del Poble / 30/1 inauguració de la xarxa elèctrica a Cala Llombards / 14/2 comencen les obres d'un nou pas sobre Sa Riera / 25/3 aprovada la reforma del Teatre Principal / 14/6 es posa en funcionament l'aparcament del Parc de la Mar / 18/6 comença la demolició del quarter del Carme / 3/7 Palma subministra aigua a Calvià / 28/8 es presenta el projecte d'Es Murterar / 13/9 comença la instal·lació d'un cable telefònic submarí entre Mallorca i Argèlia / 7/10 acaben les obres de demolició dels molins del c/ Indústria / 5/11 obert un tram de la via de Cintura entre el c/ Manacor i el camí vell de Bunyola",
+      "media": ""
+    },
+    {
+      "yearStart": 1975,
+      "yearEnd": null,
+      "categoria": "notícies de Balears",
+      "text": "2/3 un jove de 16 anys mor per un tret de la Guàrdia Civil / 22/3 el salari mínim es fixa en 180 pts/dia / 24/3 incendi intencionat al DM / 12/4 el Govern Civil suspèn una conferència de Josep Melià Alaior / 25/5 el Mallorca baixa a Tercera / 6/6 manifestació contra el pàrquing de superfície al futur Parc de la Mar / 22/6 l'Ajuntament de Palma compra el Palau Solleric / 9/7 el Govern Civil denega el permís de manifestació contra el pàrquing del Parc de la Mar / 18/7 s'esbuquen dues cases del Puig de Sant Pere amb el resultat de dos morts / 14/8 accident a Estellencs d'una avioneta contra incendis: mor el pilot / 21/8 segrestada la revista Lluc per un article de Josep Melià / 8/11 incendi al vaixell Ciudad de Valéncia, a Palma",
+      "media": "e:/cronologia/fotos/parc_sí.jpg"
+    }
+  ],
+  "categoriaOrder": [
+    "Vida personal",
+    "papàs",
+    "MEsperança / Xisco / Alicia",
+    "Miquel",
+    "Jordi",
+    "reste família Avellà-Salvà",
+    "reste família Pol-Salom",
+    "Amics",
+    "vehicles",
+    "viatges",
+    "immobles",
+    "estudis / feina",
+    "Bisbes de Mallorca",
+    "Governadors Civils",
+    "presidents Parlament Illes Balears",
+    "presidents Govern Balear",
+    "presidents CIM",
+    "Batles de Palma",
+    "infrastructures de Mallorca",
+    "notícies de Balears",
+    "caps d_Estat",
+    "presidents Govern",
+    "presidents Congrés Diputats",
+    "notícies d_Espanya",
+    "presidents USA",
+    "presidents França",
+    "presidents Alemanya",
+    "presidents URSS/Rússia",
+    "Papes",
+    "notícies del món",
+    "guerres",
+    "geopolítica",
+    "avanços tecnològics",
+    "Cursa espacial",
+    "Nobel Literatura",
+    "Premi Nobel",
+    "Oscar millor pel.lícula",
+    "altres Óscar destacats",
+    "Sèries TV",
+    "Festival Eurovisión",
+    "Jocs Olímpics",
+    "Fires mundials"
+  ],
+  "categoriaColors": {
+    "Vida personal": "#ffe0e0",
+    "papàs": "#ffe0e0",
+    "MEsperança / Xisco / Alicia": "#ffe0e0",
+    "Miquel": "#ffe0e0",
+    "Jordi": "#ffe0e0",
+    "reste família Avellà-Salvà": "#ffe0e0",
+    "reste família Pol-Salom": "#ffe0e0",
+    "Amics": "#ffe0e0",
+    "vehicles": "#ffe0e0",
+    "viatges": "#ffe0e0",
+    "immobles": "#ffe0e0",
+    "estudis / feina": "#ffe0e0",
+    "Bisbes de Mallorca": "#e0f0ff",
+    "Governadors Civils": "#e0f0ff",
+    "presidents Parlament Illes Balears": "#e0f0ff",
+    "presidents Govern Balear": "#e0f0ff",
+    "presidents CIM": "#e0f0ff",
+    "Batles de Palma": "#e0f0ff",
+    "infrastructures de Mallorca": "#e0f0ff",
+    "notícies de Balears": "#cce7ff",
+    "caps d_Estat": "#e0ffe0",
+    "presidents Govern": "#e0ffe0",
+    "presidents Congrés Diputats": "#e0ffe0",
+    "notícies d_Espanya": "#d1ffd1",
+    "presidents USA": "#fff9d6",
+    "presidents França": "#fff9d6",
+    "presidents Alemanya": "#fff9d6",
+    "presidents URSS/Rússia": "#fff9d6",
+    "Papes": "#fff9d6",
+    "notícies del món": "#fef5be",
+    "guerres": "#f0e0ff",
+    "geopolítica": "#f0e0ff",
+    "avanços tecnològics": "#ffeacc",
+    "Cursa espacial": "#ffeacc",
+    "Nobel Literatura": "#d6fff9",
+    "Premi Nobel": "#d6fff9",
+    "Oscar millor pel.lícula": "#d6fff9",
+    "altres Óscar destacats": "#d6fff9",
+    "Sèries TV": "#d6fff9",
+    "Festival Eurovisión": "#d6fff9",
+    "Jocs Olímpics": "#d6fff9",
+    "Fires mundials": "#d6fff9"
+  }
+}

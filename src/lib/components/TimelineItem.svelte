@@ -14,5 +14,11 @@
 </script>
 
 <div class="w-96 text-wrap">
-	{item?.text}
+	<div>{item?.text}</div>
+
+	{#if item?.media}
+		<div class="mb-2">
+			<img src={item.media} alt="" class="w-full rounded object-cover" />
+		</div>
+	{/if}
 </div>
